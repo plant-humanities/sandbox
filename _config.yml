@@ -2,10 +2,10 @@
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: https://lab.plant-humanities.org
+url: https://plant-humanities.github.io/sandbox
 
 # The base URL of your site
-baseurl: 
+baseurl: /sandbox
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -22,7 +22,7 @@ avatar: /assets/img/logo.png
 
 github:
   username: plant-humanities # change to your GitHub username
-  repository: chirpy # change to your GitHub repository name, e.g. 'my-blog'
+  repository: sandbox # change to your GitHub repository name, e.g. 'my-blog'
 
 # Change to your timezone › https://zones.arilyn.cc
 timezone:
