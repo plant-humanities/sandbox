@@ -8,7 +8,7 @@ tags: flower ornamental temperate
 published: false 
 media_subpath: /assets/posts/peony 
 image: 
-  path: wc:Smith_-_Chinese_Tree_Peony_(Paeonia_suffruticosa)_-_1939.288_-_Cleveland_Museum_of_Art.jpg 
+  path: wc:近代_金城_牡丹_扇面-Peony_MET_DP162562.jpg
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
