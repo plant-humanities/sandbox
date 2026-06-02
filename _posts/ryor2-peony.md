@@ -54,6 +54,6 @@ M. Zhao and S.P. Wu. ↩
 E. Sugaya and A. Sugaya, "Cellular physiology of epileptogenic phenomena and its application to therapy against intractable epilepsy," Comp Biochem Physiol C 98 no. 1 (1991): 249–270. ↩ 
 Shamim Sahranavard, Saeedeh Ghafari, and Mahmoud Mosaddegh, "Medicinal plants used in Iranian traditional medicine to treat epilepsy," Seizure 23, no. 5 (2014): 328–332. ↩ 
 Tadashi Tsuda et al., "Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model," Experimental Neurology 146 no. 2 (1997): 518–525. ↩ 
- 
+---
 
 
