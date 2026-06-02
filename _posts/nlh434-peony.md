@@ -8,7 +8,7 @@ tags: flower ornamental temperate
 published: false 
 media_subpath: /assets/posts/peony 
 image: 
-  path: wc:近代_金城_牡丹_扇面-Peony_MET_DP162562.jpg
+  path: wc:Still_Life-_Vase_of_Peonies_MET_APS2185.jpg
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
