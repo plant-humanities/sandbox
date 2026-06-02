@@ -1,1 +1,15 @@
+--- 
+title: 'Peony: Pretty and Powerful' 
+description: Peony served medicinal purposes for over two millennia across Europe  and Asia, treating epilepsy, gynecological ailments, and convulsions. An 18th-century Medici princess used peony roots in an infant convulsion powder to forge political  alliances with European courts. 
+author: Ashley Buchanan & Kimberly coding
+date: 2021-05-24 
+permalink: /peony 
+tags: flower ornamental temperate 
+published: false 
+media_subpath: /assets/posts/peony 
+image: 
+  path: wc:Smith_-_Chinese_Tree_Peony_(Paeonia_suffruticosa)_-_1939.288_-_Cleveland_Museum_of_Art.jpg 
+storykit: true 
+categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
+---
 
