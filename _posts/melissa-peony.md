@@ -23,6 +23,10 @@ In her letter to Anna Maria Luisa, the baroness praised the powder’s effective
 ["helpeth greatly the falling sickness, likewise the extraction of the rootes doth the same."](https://www.biodiversitylibrary.org/pageimage/51906362) 
 
 ...developed in France.[^5] 
+
+1. From Wikimedia Commons 
+{% include embed/image.html id="img2" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
+
  
 [^5]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003). 
 
