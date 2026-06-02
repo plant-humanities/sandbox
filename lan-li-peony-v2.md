@@ -12,9 +12,9 @@ image:
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
-#PH Lab – Peony – text no code
+# PH Lab – Peony – text no code
 
-#The Secret Ingredient 
+# The Secret Ingredient 
 
 In 1735, a *Viennese* baroness _wrote_ to the last Medici princess, Anna Maria Luisa de Medici (1669—1743), to thank her for sending a miraculous infant convulsion powder. Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation of a human skull (of "a man who died violently but was never buried"), a precipitation of "Oriental pearls," a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients—the skull and Oriental pearls—stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective. 
 
