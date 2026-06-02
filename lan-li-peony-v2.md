@@ -8,7 +8,7 @@ tags: flower ornamental temperate
 published: true 
 media_subpath: /assets/posts/peony 
 image: 
-  path: wc:Smith_-_Chinese_Tree_Peony_(Paeonia_suffruticosa)_-_1939.288_-_Cleveland_Museum_of_Art.jpg 
+  path: wc:https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Statue_of_Yaksha_supporting_one_of_the_Two_Golden_Chedi_of_Wat_Phra_Kaew%2C_Bangkok%2C_Thailand.jpg/1280px-Statue_of_Yaksha_supporting_one_of_the_Two_Golden_Chedi_of_Wat_Phra_Kaew%2C_Bangkok%2C_Thailand.jpg
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
