@@ -8,7 +8,7 @@ tags: flower ornamental temperate
 published: true 
 media_subpath: /assets/posts/peony 
 image: 
-  path: wc:清_任熊_牡丹_扇面-Peony_MET_DP161195.jpg
+  path: wc:Wen_Zhengming_-_Peony_-_1985.83.1_-_Yale_University_Art_Gallery.jpg
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
