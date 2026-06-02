@@ -8,7 +8,7 @@ tags: flower ornamental temperate
 published: true 
 media_subpath: /assets/posts/peony 
 image: 
-  path:wc:Takahashi_Bihō_-_Peony_2.jpg
+  path: wc:Takahashi_Bihō_-_Peony_2.jpg 
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
