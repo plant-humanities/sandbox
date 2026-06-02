@@ -8,7 +8,7 @@ tags: flower ornamental temperate
 published: true 
 media_subpath: /assets/posts/peony 
 image: 
-  path: wc:White_Peony_by_Chokunyū,_Honolulu_Museum_of_Art.jpg 
+  path: wc:Peony_flowers_and_butterflies_Bloemen_en_vlinders,_RP-P-1967-30.jpg 
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
