@@ -68,7 +68,9 @@ test Japanese peony
 test compare Japanese peonies
 {% include embed/image-compare.html before="wc:White_Peony_by_Chokunyū,_Honolulu_Museum_of_Art.jpg" after="bm000628767.jpg" %} 
 
+test YouTube
 {% include embed/youtube.html vid="JuHL2TRrpO8" %}
+
 https://lab.plant-humanities.org/admin/storykit-youtube-viewer
  
 [^5]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003).
