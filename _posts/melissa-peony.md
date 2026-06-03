@@ -60,6 +60,12 @@ test map viewer
 {% include embed/map.html id="map1" center="Q187136" zoom="4" geojson="Song.json~The Song dynasty at its greatest extent in 1111 AD." %} 
 
 
+test Japanese peony
+
+{% include embed/image.html id="img2" src="wc:White_Peony_by_Chokunyū,_Honolulu_Museum_of_Art.jpg" caption="test peony" aspect="2" %} 
+
+
+
  
 [^5]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003).
 
