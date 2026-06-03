@@ -32,6 +32,14 @@ jhgjhgjgjg
 
 sssssxasdasdsa
 
+{% include embed/youtube.html
+    vid="dQw4w9WgXcQ"
+    autoplay="true"
+    start="42"
+    end="1:15"
+    caption="The famous chorus"
+%}
+
 
 
 {% include embed/image.html id="img2" src="wc:Paeonia_lutea.jpg#/media/File:Paeonia_lutea.jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
