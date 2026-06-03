@@ -49,12 +49,14 @@ In addition to the cleansing and purgative properties associated with peony and 
 European printed herbals of the sixteenth century continued to prescribe peony for seizures and epilepsy. While many of these herbals referenced Galen’s recommendation to tie the root around the necks of children, they also prescribed more powerful peony therapeutics in the form of distilled waters, powders, syrups, and compound medicines to be taken internally. For example, Castore Durante’s popular 1585 Italian herbal described how distilled water of female peony root and flowers relieved children who suffered from "mal caduco" (epilepsy or seizures). He also noted that it benefited apoplectics and paralytics as well. Similarly, in his 1597 herbal, English naturalist John Gerard noted that a syrup made from peony ["helpeth greatly the falling sickness, likewise the extraction of the rootes doth the same."](https://www.biodiversitylibrary.org/pageimage/51906362) 
 
 test
-{% include embed/image.html id="img1" src="IMG_1325.JPG" caption="Archivio di Stato di Firenze (ASF), Miscellanea Medicea (MM) 1, ins. 2, fol. 186r." aspect="1.99" %} 
+{% include embed/image.html id="img1" src="IMG_1325.JPG" caption="Archivio di Stato di Firenze (ASF), Miscellanea Medicea (MM) 1, ins. 2, fol. 186r." aspect="1.00" %} 
 
 test compare viewer
+
 {% include embed/image-compare.html before="linn-hs959-3.jpg" after="bm000628767.jpg" class="right" %} 
 
 test map viewer
+
 {% include embed/map.html id="map1" center="Q187136" zoom="4" geojson="Song.json~The Song dynasty at its greatest extent in 1111 AD." %} 
 
 
