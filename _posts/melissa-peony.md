@@ -33,7 +33,7 @@ As a Chinese botanical export, eastern ornamental peonies, as well as the new he
 Today, peonies remain one of the most sought-after ornamental flowers in the world. Thanks to their abundant delicate petals, peonies often adorn gardens and homes, and are popular for wedding bouquets and floral arrangements. While peonies have long been, and continue to be, a coveted ornamental plant, what may surprise you is that they also have an equally long history—over two millennia—as a powerful medicinal therapeutic. 
 
 # Shaoyao: The Medicine Made from Peony 
-{% include embed/image.html id="img1" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
+{% include embed/image.html id="img2" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
 
 Peony is the single genus in the [*Paeoniaceae*](Q3360397) family, which has about 30 species found in western North America, northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution. 
 
