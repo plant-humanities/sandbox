@@ -44,6 +44,12 @@ European printed herbals of the sixteenth century continued to prescribe peony f
 
 {% include embed/image-compare.html before="linn-hs959-3.jpg" after="bm000628767.jpg" caption="Contrasting Plant Images" class="right" %} 
 
+	
+{% include embed/youtube.html
+    vid="v=NmJPpk7YgEQ"
+%}
+
+
 [^1]:Zhou Shi-Liang et al., "Multiple species of wild tree peonies gave rise to the ‘king of flowers’, Paeonia suffruticosa Andrews," Proceedings: Biological Sciences 281, no. 1797 (December 2014): 1–8.
 
 [^5]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003). 
