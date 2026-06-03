@@ -18,6 +18,9 @@ In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa
 
 In her letter to Anna Maria Luisa, the baroness praised the powder’s effectiveness, stating that the children she treated with it had been so violently taken by convulsions that the attending physicians had "given up on them." Not only had the "miraculous powder" cured the children, but they remained in perfect health several months later. Well known for her miraculous powder, Anna Maria Luisa strategically distributed it to influential individuals and courts across Europe. As a result, she created valuable socio-political alliances to protect The Grand Duchy of Tuscany as the end of the Medici dynasty neared. 
 
+{% include embed/image.html id="img2" src="wc:
+Takahashi Bihō - Peony 1.jpg" caption="A pink peony by Takahashi Bihō, Wikimedia Commons, public domain" aspect="2" %} 
+
 # The Popularity of Peonies 
 Peonies are not typically associated with medicine, since they have long been coveted for their beauty. In fact, peonies were first cultivated for their attractiveness and fragrance in China more than 1,400 years ago and became especially popular under the Tang Dynasty (618–907 CE). In the Tang imperial gardens, tree (or moutan) peonies reigned as the "king of flowers" and symbolized happiness, wealth, and prosperity. We can see the association of peonies with wealth and class in a rare Tang scroll painting that depicts five ladies of the court and one maidservant. The rank and prestige of each lady is shown by their scale relative to one another as well as by the lavish peonies that adorn their hair. As the popularity of peonies grew in China, so too did their varieties, as horticulturalists selected, hybridized, bred, and eventually grafted peonies for their fragrance, petal color, petal number, and size.[^1] 
 
