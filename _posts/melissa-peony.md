@@ -73,7 +73,7 @@ test YouTube
 
 https://lab.plant-humanities.org/admin/storykit-youtube-viewer
 
-test Zoom [peony](img1/zoomto/pct:24.15,47.49,26.81,8.42)
+test Zoom [peony](img2/zoomto/pct:24.15,47.49,26.81,8.42)
  
 [^5]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003).
 
