@@ -25,16 +25,13 @@ Peonies are not typically associated with medicine, since they have long been co
 
 The center of imperial peony cultivation was in Luoyang, where there were peony festivals and competitions, gardens devoted solely to peonies, and even a peony research center. This led to a plethora of ornamental peony cultivars as peony breeding became an artform. More than 200 peony cultivars were described during the Song Dynasty (960–1279 CE); today, China has more than 1,000 cultivars. 
 
-{% include embed/map.html
-    center="36.6418, 139.4477"
-    caption="Ashio, Tochigi, Japan"
-%}
+{% include embed/map.html center="36.6418, 139.4477" caption="Ashio, Tochigi, Japan"%}
 
 While peonies have a long history of appreciation and cultivation as ornamental garden plants in Chinese as well as Islamic gardens, in western Europe they mainly were valued for their utility. Over the course of the sixteenth century that changed, when Ottoman floriculture introduced numerous ornamental flowers to the gardens of Europe, including hyacinths, narcissi, peonies, and most famously, tulips.[^2] It was not until the end of the eighteenth century, that Europeans would begin intensively breeding ornamental peonies. 
 
 In 1789, famed British naturalist Sir Joseph Banks acquired a "moutan peony tree" (*Paeonia lactiflora*, left) from Canton, China, through his connections with the British East India Company. Surviving the arduous journey to Britain, it was planted in the Royal Botanic Garden, Kew. Other peonies from China soon followed, ushering in something of a peony craze in Europe as, thanks to centuries of cultivation, Chinese peonies were larger, fuller, and more fragrant than native European varieties. Peonies became increasingly popular as French, English, and American horticulturists began developing ornamental varieties of their own from these exotic imported peony cultivars.[^3] 
 
-{% include embed/image-compare.html before="wc:Paeonia suffruticosa white070503.jpg" after="wc:Paeonia Detail SK.jpg" class="right" % caption="Pink and White"} 
+{% include embed/image-compare.html before="wc:Paeonia suffruticosa white070503.jpg" after="wc:Paeonia Detail SK.jpg" class="right" caption="Pink and White" %} 
 
 As a Chinese botanical export, eastern ornamental peonies, as well as the new herbaceous and tree hybrids created from them in Europe, carried connotations of the "exotic Orient" and became a popular subject in nineteenth-century art. The depiction of peonies in nineteenth-century French paintings, however, does more than simply signify the exotic or differentiate Occident and Orient.[^4] For example, in Frédéric Bazille’s Young Woman with Peonies, the foreign provenance of ornamental peonies is emphasized by the Black model who arranges the blooms in an "Oriental" vase. Noteably, Bazille pairs the peonies with irises, France’s national flower. Once new and exotic, ornamental peony cultivars had become a product of cultural hybridity, simultaneously signaling the plant’s eastern origin as well as the new varieties that were being developed in France.[^5]
 
