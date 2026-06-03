@@ -14,7 +14,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 ---
 
 # The Secret Ingredient 
-*Paeonia* 
+
 [Paeoniaceae](Q3360397) 
 
 In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa de Medici (1669—1743), to thank her for sending a miraculous infant convulsion powder. Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation of a human skull (of "a man who died violently but was never buried"), a precipitation of "Oriental pearls," a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients—the skull and Oriental pearls—stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective. 
@@ -35,7 +35,7 @@ As a Chinese botanical export, eastern ornamental peonies, as well as the new he
 Today, peonies remain one of the most sought-after ornamental flowers in the world. Thanks to their abundant delicate petals, peonies often adorn gardens and homes, and are popular for wedding bouquets and floral arrangements. While peonies have long been, and continue to be, a coveted ornamental plant, what may surprise you is that they also have an equally long history—over two millennia—as a powerful medicinal therapeutic. 
 
 # Shaoyao: The Medicine Made from Peony 
-Peony is the single genus in the Paeoniaceae family, which has about 30 species found in western North America, northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution. 
+Peony is the single genus in the *Paeoniaceae* family, which has about 30 species found in western North America, northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution. 
 
 Two species of Paeonia were particularly important in ancient Chinese medical practice, Paeonia lactiflora, which was the primary source of both white peony and red peony, and Paeonia suffruticosa, commonly known as the tree peony or moutan. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (25–220 CE). Writings within the tomb tell that peony root (called "danpi"), likely P. suffruticosa, was used to treat blood stasis nearly 2,000 years ago.6 
 
