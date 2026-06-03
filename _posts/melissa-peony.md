@@ -34,6 +34,7 @@ Today, peonies remain one of the most sought-after ornamental flowers in the wor
 
 # Shaoyao: The Medicine Made from Peony 
 {% include embed/image.html id="img2" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
+
 Peony is the single genus in the [*Paeoniaceae*](Q3360397) family, which has about 30 species found in western North America, northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution. 
 
 Two species of *Paeonia* were particularly important in ancient Chinese medical practice, *Paeonia lactiflora*, which was the primary source of both white peony and red peony, and *Paeonia suffruticosa*, commonly known as the tree peony or moutan. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (25–220 CE). Writings within the tomb tell that peony root (called "*danpi*"), likely P. suffruticosa, was used to treat blood stasis nearly 2,000 years ago.6 
