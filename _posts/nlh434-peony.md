@@ -38,6 +38,8 @@ Let's consider the scope of peony cultivation during the Song dynasty.
 
 {% include embed/map.html id="map1" center="Q187136" zoom="4" %}
 
+
+Observe the peony opening up. 
 {% include embed/youtube.html
     vid="Y7JnbgUbiME"
     caption="Peony blooming in slow motion"
