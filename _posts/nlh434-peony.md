@@ -21,6 +21,9 @@ Peonies are not typically associated with medicine, since they have long been co
 The center of imperial peony cultivation was in Luoyang, where there were peony festivals and competitions, gardens devoted solely to peonies, and even a peony research center. This led to a plethora of ornamental peony cultivars as peony breeding became an artform. More than 200 peony cultivars were described during the Song Dynasty (960–1279 CE); today, China has more than 1,000 cultivars. 
 While peonies have a long history of appreciation and cultivation as ornamental garden plants in Chinese as well as Islamic gardens, in western Europe they mainly were valued for their utility. Over the course of the sixteenth century that changed, when Ottoman floriculture introduced numerous ornamental flowers to the gardens of Europe, including hyacinths, narcissi, peonies, and most famously, tulips.[^2] It was not until the end of the eighteenth century, that Europeans would begin intensively breeding ornamental peonies. 
 
+{% include embed/image.html id="img2" src="wc:Paeonia_rockii_2015_G1.jpg" caption="*Paeonia rockii*, a tree peony native to Gansu, Wikimedia Commons, public domain" aspect="4.68" %} 
+
+
 [^1]: Zhou Shi-Liang et al., "Multiple species of wild tree peonies gave rise to the ‘king of flowers’, Paeonia suffruticosa Andrews," Proceedings: Biological Sciences 281, no. 1797 (December 2014): 1–8. ↩ 
 
 [^2]: John H. Harvey, "Turkey as a Source of Garden Plants," Garden History 4, no. 3 (1976): 21–42. Accessed March 25, 2021. doi:10.2307/1586521. ↩ 
