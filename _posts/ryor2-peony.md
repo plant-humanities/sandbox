@@ -33,7 +33,10 @@ In 1789, famed British naturalist Sir Joseph Banks acquired a "moutan peony tree
 
 As a Chinese botanical export, eastern ornamental peonies, as well as the new herbaceous and tree hybrids created from them in Europe, carried connotations of the "exotic Orient" and became a popular subject in nineteenth-century art. The depiction of peonies in nineteenth-century French paintings, however, does more than simply signify the exotic or differentiate Occident and Orient.[^4] For example, in Frédéric Bazille’s Young Woman with Peonies, the foreign provenance of ornamental peonies is emphasized by the Black model who arranges the blooms in an "Oriental" vase. Noteably, Bazille pairs the peonies with irises, France’s national flower. Once new and exotic, ornamental peony cultivars had become a product of cultural hybridity, simultaneously signaling the plant’s eastern origin as well as the new varieties that were being developed in France.[^5] 
 
-Today, peonies remain one of the most sought-after ornamental flowers in the world. Thanks to their abundant delicate petals, peonies often adorn gardens and homes, and are popular for wedding bouquets and floral arrangements. While peonies have long been, and continue to be, a coveted ornamental plant, what may surprise you is that they also have an equally long history—over two millennia—as a powerful medicinal therapeutic. 
+Today, peonies remain one of the most sought-after ornamental flowers in the world. 
+
+{% include embed/youtube.html vid="NmJPpk7YgEQ" %}
+Thanks to their abundant delicate petals, peonies often adorn gardens and homes, and are popular for wedding bouquets and floral arrangements. While peonies have long been, and continue to be, a coveted ornamental plant, what may surprise you is that they also have an equally long history—over two millennia—as a powerful medicinal therapeutic. 
 
 # Shaoyao: The Medicine Made from Peony 
 Peony is the single genus in the [Paeoniaceae](Q3360397) family, which has about 30 species found in western North America, northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution. 
