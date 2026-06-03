@@ -36,7 +36,13 @@ While peonies have a long history of appreciation and cultivation as ornamental 
 
 Let's consider the scope of peony cultivation during the Song dynasty. 
 
-{% include embed/map.html id="map1" center="Q187136" zoom="4" geojson="Song.json~The Song dynasty at its greatest extent in 1111 AD." %}
+{% include embed/map.html id="map1" center="Q187136" zoom="4" %}
+
+{% include embed/youtube.html
+    vid="Y7JnbgUbiME"
+    caption="Peony blooming in slow motion"
+%}
+
 
 [^1]: Zhou Shi-Liang et al., "Multiple species of wild tree peonies gave rise to the ‘king of flowers’, Paeonia suffruticosa Andrews," Proceedings: Biological Sciences 281, no. 1797 (December 2014): 1–8. ↩ 
 
