@@ -32,6 +32,8 @@ As a Chinese botanical export, eastern ornamental peonies, as well as the new he
 
 Today, peonies remain one of the most sought-after ornamental flowers in the world. Thanks to their abundant delicate petals, peonies often adorn gardens and homes, and are popular for wedding bouquets and floral arrangements. While peonies have long been, and continue to be, a coveted ornamental plant, what may surprise you is that they also have an equally long history—over two millennia—as a powerful medicinal therapeutic. 
 
+{% include embed/image.html id="img2" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
+
 # Shaoyao: The Medicine Made from Peony 
 Peony is the single genus in the [*Paeoniaceae*](Q3360397) family, which has about 30 species found in western North America, northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution. 
 
@@ -45,15 +47,5 @@ Peony has an equally long history of medicinal use in Europe. In his herbal, de 
 In addition to the cleansing and purgative properties associated with peony and women’s health, the Roman physician Galen recommended tying peony root around the necks of children as an effective remedy for "the falling sickness," which was a common pre-modern phrase for epilepsy.9 Throughout the middle ages, peony was used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and Benedictine abbess, Hildegard von Bingen (1098—1179) instructed "When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured."10 In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica. 
 
 European printed herbals of the sixteenth century continued to prescribe peony for seizures and epilepsy. While many of these herbals referenced Galen’s recommendation to tie the root around the necks of children, they also prescribed more powerful peony therapeutics in the form of distilled waters, powders, syrups, and compound medicines to be taken internally. For example, Castore Durante’s popular 1585 Italian herbal described how distilled water of female peony root and flowers relieved children who suffered from "mal caduco" (epilepsy or seizures). He also noted that it benefited apoplectics and paralytics as well. Similarly, in his 1597 herbal, English naturalist John Gerard noted that a syrup made from peony ["helpeth greatly the falling sickness, likewise the extraction of the rootes doth the same."](https://www.biodiversitylibrary.org/pageimage/51906362) 
-
-
-
-...developed in France.[^5] 
-
-1. From Wikimedia Commons 
-{% include embed/image.html id="img2" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
-
  
 [^5]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003). 
-
-
