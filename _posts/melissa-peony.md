@@ -47,8 +47,15 @@ Peony has an equally long history of medicinal use in Europe. In his herbal, de 
 In addition to the cleansing and purgative properties associated with peony and women’s health, the Roman physician Galen recommended tying peony root around the necks of children as an effective remedy for "the falling sickness," which was a common pre-modern phrase for epilepsy.9 Throughout the middle ages, peony was used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and Benedictine abbess, Hildegard von Bingen (1098—1179) instructed "When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured."10 In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica. 
 
 European printed herbals of the sixteenth century continued to prescribe peony for seizures and epilepsy. While many of these herbals referenced Galen’s recommendation to tie the root around the necks of children, they also prescribed more powerful peony therapeutics in the form of distilled waters, powders, syrups, and compound medicines to be taken internally. For example, Castore Durante’s popular 1585 Italian herbal described how distilled water of female peony root and flowers relieved children who suffered from "mal caduco" (epilepsy or seizures). He also noted that it benefited apoplectics and paralytics as well. Similarly, in his 1597 herbal, English naturalist John Gerard noted that a syrup made from peony ["helpeth greatly the falling sickness, likewise the extraction of the rootes doth the same."](https://www.biodiversitylibrary.org/pageimage/51906362) 
+
+test
+{% include embed/image.html id="img1" src="IMG_1325.JPG" caption="Archivio di Stato di Firenze (ASF), Miscellanea Medicea (MM) 1, ins. 2, fol. 186r." aspect="1.33" %} 
+
+test compare viewer
+{% include embed/image-compare.html before="linn-hs959-3.jpg" after="bm000628767.jpg" class="right" %} 
+
  
 [^5]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003).
 
-{% include embed/image.html id="img1" src="IMG_1325.JPG" caption="Archivio di Stato di Firenze (ASF), Miscellanea Medicea (MM) 1, ins. 2, fol. 186r." aspect="1.33" %} 
+
 
