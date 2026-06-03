@@ -62,7 +62,7 @@ test map viewer
 
 test Japanese peony
 
-{% include embed/image.html id="img2" src="wc:White_Peony_by_Chokunyū,_Honolulu_Museum_of_Art.jpg" caption="White Peony by Tanomura Chokunyū, c. 1900, ink on paper, 41 × 11 1/2 in. (104.1 × 29.2 cm), Honolulu Museum of Art accession 2013-44-02" aspect="50.0" %} 
+{% include embed/image.html id="img2" src="wc:White_Peony_by_Chokunyū,_Honolulu_Museum_of_Art.jpg" caption="White Peony by Tanomura Chokunyū, c. 1900, ink on paper, 41 × 11 1/2 in. (104.1 × 29.2 cm), Honolulu Museum of Art accession 2013-44-02" aspect="0.25" %} 
 
 
 
