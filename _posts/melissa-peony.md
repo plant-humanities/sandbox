@@ -54,6 +54,10 @@ test
 test compare viewer
 {% include embed/image-compare.html before="linn-hs959-3.jpg" after="bm000628767.jpg" class="right" %} 
 
+test map viewer
+{% include embed/map.html id="map1" center="Q187136" zoom="4" geojson="Song.json~The Song dynasty at its greatest extent in 1111 AD." %} 
+
+
  
 [^5]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003).
 
