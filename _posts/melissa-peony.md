@@ -65,6 +65,8 @@ test Japanese peony
 {% include embed/image.html id="img2" src="wc:White_Peony_by_Chokunyū,_Honolulu_Museum_of_Art.jpg" caption="White Peony by Tanomura Chokunyū, c. 1900, ink on paper, 41 × 11 1/2 in. (104.1 × 29.2 cm), Honolulu Museum of Art accession 2013-44-02" aspect="0.25" %} 
 
 
+test compare Japanese peonies
+{% include embed/image-compare.html before="wc:White_Peony_by_Chokunyū,_Honolulu_Museum_of_Art.jpg" after="bm000628767.jpg" class="right" %} 
 
  
 [^5]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003).
