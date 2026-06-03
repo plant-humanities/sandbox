@@ -27,6 +27,8 @@ While peonies have a long history of appreciation and cultivation as ornamental 
 {% include embed/image.html id="img2" src="wc:Paeonia_rockii_2015_G1.jpg" caption="*Paeonia rockii*, a tree peony native to Gansu, Wikimedia Commons, public domain" aspect="6" %} 
 
 
+{% include embed/image-compare.html before="linn-hs959-3.jpg" after="bm000628767.jpg" class="right" %} 
+
 
 [^1]: Zhou Shi-Liang et al., "Multiple species of wild tree peonies gave rise to the ‘king of flowers’, Paeonia suffruticosa Andrews," Proceedings: Biological Sciences 281, no. 1797 (December 2014): 1–8. ↩ 
 
