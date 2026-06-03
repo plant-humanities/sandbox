@@ -34,6 +34,10 @@ While peonies have a long history of appreciation and cultivation as ornamental 
 {% include embed/image-compare.html before="wc:Peony_-_Arlington,_MA_-_09.jpg" after="wc:Peonies,_turban_ranunculus_and_tulip_(RCIN_924340).jpg" class="right" %} 
 
 
+Let's consider the scope of peony cultivation during the Song dynasty. 
+
+{% include embed/map.html id="map1" center="Q187136" zoom="4" geojson="Song.json~The Song dynasty at its greatest extent in 1111 AD." %}
+
 [^1]: Zhou Shi-Liang et al., "Multiple species of wild tree peonies gave rise to the ‘king of flowers’, Paeonia suffruticosa Andrews," Proceedings: Biological Sciences 281, no. 1797 (December 2014): 1–8. ↩ 
 
 [^2]: John H. Harvey, "Turkey as a Source of Garden Plants," Garden History 4, no. 3 (1976): 21–42. Accessed March 25, 2021. doi:10.2307/1586521. ↩ 
