@@ -57,7 +57,9 @@ test compare viewer
 
 test map viewer
 
-{% include embed/map.html id="map1" center="Q187136" zoom="4" geojson="Song.json~The Song dynasty at its greatest extent in 1111 AD." %} 
+{% include embed/map.html id="map1" center="Q187136" zoom="9" geojson="Song.json~The Song dynasty at its greatest extent in 1111 AD." %} 
+
+https://lab.plant-humanities.org/admin/storykit-map-viewer
 
 
 test Japanese peony
