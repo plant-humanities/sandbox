@@ -19,8 +19,9 @@ In 1735, a *Viennese baroness* wrote to the last Medici princess, Anna Maria Lui
 
 ["helpeth greatly the falling sickness, likewise the extraction of the rootes doth the same."](https://www.biodiversitylibrary.org/pageimage/51906362) 
 
+Paeonia_lutea.jpg#/media/File:Paeonia_lutea.jpg
 
-{% include embed/image.html id="img2" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
+{% include embed/image.html id="img2" src="wc:Paeonia_lutea.jpg#/media/File:Paeonia_lutea.jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
 
 {% include embed/image.html id="img1" src="IMG_1325.JPG" caption="Archivio di Stato di Firenze (ASF), Miscellanea Medicea (MM) 1, ins. 2, fol. 186r." aspect="1.33" %} 
 
