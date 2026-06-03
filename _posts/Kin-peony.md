@@ -22,7 +22,7 @@ In 1735, a *Viennese baroness* wrote to the last Medici princess, Anna Maria Lui
 
 jhgjhgjgjg
 
-{% include embed/image-compare.html before="linn-hs959-3.jpg" after="bm000628767.jpg" class="right" %} 
+{% include embed/image-compare.html before="linn-hs959-3.jpg" after="bm000628767.jpg" hjgjgjgj class="right" %} 
 
 
 sssssxasdasdsa
