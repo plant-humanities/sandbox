@@ -27,6 +27,10 @@ it was actually the use of peony that made Anna Maria Luisa’s powder effective
 
 jhgjhgjgjg
 
+{% include embed/map.html
+    center="30.4, 120.29"
+%}
+
 {% include embed/image-compare.html before="linn-hs959-3.jpg" after="bm000628767.jpg" hjgjgjgj class="right" %} 
 
 
