@@ -13,7 +13,7 @@ storykit: true
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
 
-{% include embed/iframe.html src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj/pubhtml" %}
+{% include embed/iframe.html src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj/pubhtml](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj&font=Default&lang=en&initial_zoom=2&width=100%25&height=650)" %}
 
 # The Secret Ingredient
 In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa de Medici (1669—1743), to thank her for sending a miraculous infant convulsion powder. Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation of a human skull (of "a man who died violently but was never buried"), a precipitation of "Oriental pearls," a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients—the skull and Oriental pearls—stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective. 
