@@ -36,6 +36,23 @@ shaoyao: The Medicine Made from Peony Peony is the single genus in the Paeoniace
 {% include embed/image.html id="img3" src="wc:Bazille,_Négresse_aux_pivoines.JPG" caption="Frédéric Bazille, Young Woman with Peonies, 1870, Musée Fabre, Wikimedia Commons, CC BY-SA 3.0" aspect="1.26" %}
  
 
+src="/assets/posts/my-post/photo.jpg"
+
+   https://lab.plant-humanities.org/admin/storykit-image-viewer#action-link-example​
+
+This creates an clickable link that is link to the image viewer through the id=“img3”. The numbers in the tag are coordinates for the zone selected:
+    [irises](img3/zoomto/138,0,979,821)​
+
+-To manually modify the coordinates of the zone selected:
+	-open the image in the enlarge viewer
+	-press shift and hold left click to select the zone
+	-copy the coordinate
+	-paste them in the tag
+
+*reminder, in order to link the image and the clickable text, do not forget to include the matching id attribute as follow:
+
+    {% include embed/image.html id="img3" src="wc:Bazille,_Négresse_aux_pivoines.JPG" caption="Frédéric Bazille, Young Woman with Peonies, 1870, Musée Fabre, Wikimedia Commons, CC BY-SA 3.0" aspect="1.26" %}
+ 
 
 
 [^2]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003). 
