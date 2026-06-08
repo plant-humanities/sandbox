@@ -27,7 +27,8 @@ As a Chinese botanical export, eastern ornamental peonies, as well as the new he
 
 {% include embed/image.html id="img3" src="wc:Bazille,_Négresse_aux_pivoines.JPG" caption="Frédéric Bazille, Young Woman with Peonies, 1870, Musée Fabre, Wikimedia Commons, CC BY-SA 3.0" aspect="1.26" %}
 
-In this painting, Bazille pairs the [irises](img3/zoomto/138,0,979,821) with the peonies to striking compositional effect.
+In this painting, Bazille pairs the [irises](img3/zoomto/2.12,2.40,54.96,60.85) with the peonies to striking compositional effect.
+
 
 ## Shaoyao: The Medicine Made from Peony
 
