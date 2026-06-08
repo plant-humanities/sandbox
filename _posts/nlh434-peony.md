@@ -37,10 +37,7 @@ Here is a timeline
 	
 
 {% include embed/iframe.html
-    src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='full' height='650'" 
-    caption="A timeline of therapeutics"
-    aspect="1.6"
-%}
+    src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj&font=Default&lang=en&initial_zoom=2&width=100%25&height=650" class="full"%} 
 
 rame>
 
