@@ -32,8 +32,10 @@ In this painting, Bazille pairs the [irises](img3/zoomto/pct:1.27,2.40,54.25,60.
 
 ## Shaoyao: The Medicine Made from Peony
 
-Peony is the single genus in the Paeoniaceae family, which has about 30 species found in western North America, northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family's bio-geographic distribution. Two species of *Paeonia* were particularly important in ancient Chinese medical practice: *Paeonia lactiflora*, which was the primary source of both white peony and red peony, and *Paeonia suffruticosa*, commonly known as the tree peony or moutan. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (本草圖譜 CE). Writings within the tomb tell that peony root (called "danpi"), likely *P. suffruticosa*, was used to treat blood stasis nearly 2,000 years ago.
+Peony is the single genus in the Paeoniaceae family, which has about 30 species found in western North America, northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family's bio-geographic distribution. Two species of *Paeonia* were particularly important in ancient Chinese medical practice: *Paeonia lactiflora*, which was the primary source of both white peony and red peony, and *Paeonia suffruticosa*, commonly known as the tree peony or moutan. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (2nd century CE). Writings within the tomb tell that peony root (called "danpi"), likely *P. suffruticosa*, was used to treat blood stasis nearly 2,000 years ago.
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rfmeUpqhype6yf3qeWzGBG-BJ1_AfwXtixb9iTPEu3I&font=Default&lang=en&initial_zoom=2&height=650" width="100%" height="650" frameborder="0"></iframe>
 
 [^2]: Homi K. Bhabha, "On 'hybridity' and 'moving beyond'" in *Art in Theory, 1900–2000: An Anthology of Changing Ideas* (Malden, Mass.: Blackwell Publishers, 2003).
+
+
