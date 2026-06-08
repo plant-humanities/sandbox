@@ -29,7 +29,19 @@ The center of imperial peony cultivation was in Luoyang, where there were [peony
 While peonies have a long history of appreciation and cultivation as ornamental garden plants in Chinese as well as Islamic gardens, in western Europe they mainly were valued for their utility. Over the course of the sixteenth century that changed, when Ottoman floriculture introduced numerous ornamental flowers to the gardens of Europe, including hyacinths, narcissi, peonies, and most famously, tulips.[^2] It was not until the end of the eighteenth century, that Europeans would begin intensively breeding ornamental peonies. 
 
 
-Look at  [the stamens]  (img1/zoomto/pct:42.84,32.68,20.86,23.66). 
+Look at  [the stamens] (img1/zoomto/pct:42.84,32.68,20.86,23.66) . 
+
+Here is a timeline 
+
+	
+
+{% include embed/iframe.html
+    src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html"
+    caption="A timeline of therapeutics"
+    aspect="1.6"
+%}
+
+
 
 {% include embed/image-compare.html before="wc:Peony_-_Arlington,_MA_-_09.jpg" after="wc:Peonies,_turban_ranunculus_and_tulip_(RCIN_924340).jpg" class="right" %} 
 
