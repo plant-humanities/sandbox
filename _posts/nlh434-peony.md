@@ -36,12 +36,12 @@ Here is a timeline
 	
 
 {% include embed/iframe.html
-    src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650'" 
+    src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='full' height='650'" 
     caption="A timeline of therapeutics"
     aspect="1.6"
 %}
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+rame>
 
 {% include embed/image-compare.html before="wc:Peony_-_Arlington,_MA_-_09.jpg" after="wc:Peonies,_turban_ranunculus_and_tulip_(RCIN_924340).jpg" class="right" %} 
 
