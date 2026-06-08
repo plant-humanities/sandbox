@@ -52,6 +52,9 @@ This creates an clickable link that is link to the image viewer through the id=�
 *reminder, in order to link the image and the clickable text, do not forget to include the matching id attribute as follow:
 
     {% include embed/image.html id="img3" src="wc:Bazille,_Négresse_aux_pivoines.JPG" caption="Frédéric Bazille, Young Woman with Peonies, 1870, Musée Fabre, Wikimedia Commons, CC BY-SA 3.0" aspect="1.26" %}
+
+
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj/pubhtml
  
 
 
