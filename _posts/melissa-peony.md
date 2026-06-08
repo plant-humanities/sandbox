@@ -75,7 +75,7 @@ https://lab.plant-humanities.org/admin/storykit-youtube-viewer
 
 test Timeline
 
-{% include embed/iframe.html src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj&font=Default&lang=en&initial_zoom=2&width=100%25&height=650 %}
+{% include embed/iframe.html src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS5N2SJ_TWTDFQLnQY8FB53r58HQoRVFE5ZA87IO-3es_oFI9UIzqif4vZTY7Dd-36E5e0ww9GP3lzj&font=Default&lang=en&initial_zoom=2&width=100%25&height=650" %}
 
 
 [^5]: Homi K. Bhabha, "On ‘hybridity’ and ‘moving beyond’" in Art in Theory, 1900-2000: An Anthology of Changing Ideas (Malden, Mass.: Blackwell Publishers, 2003).
