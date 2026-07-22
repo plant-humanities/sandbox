@@ -9,7 +9,7 @@ tags: tropical evergreen - family Anacardiaceae
 published: false 
 media_subpath: /assets/posts/Cashew_Kat
 image: 
-  path: wc:Anacardium occidentale_Köhler–s Medizinal-Pflanzen-010.jpg
+  path: wc:Anacardium_occidentale_Köhler–s_Medizinal_Pflanzen_010.jpg
 
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
