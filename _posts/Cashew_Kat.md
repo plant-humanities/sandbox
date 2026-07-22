@@ -10,7 +10,7 @@ published: false
 media_subpath: /assets/posts/Cashew_Kat
 image: 
   path: wc:Cashew_-_sprout.jpg
-storykit: true 
+storykit: true
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 ---
 
