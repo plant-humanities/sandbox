@@ -15,7 +15,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 
 # Water Lily (Source: Wikipedia)  
-*Nymphaea* (/nɪmˈfiːə/) is a genus of hardy and tender aquatic plants in the family Nymphaeaceae. The genus has a cosmopolitan distribution. Many species are cultivated as ornamental plants, and many cultivars have been bred. Some taxa occur as introduced species where they are not native, and some are weeds.[1] Plants of the genus are known commonly as [water lilies](Q3347071), or waterlilies in the United Kingdom.
+*Nymphaea* (/nɪmˈfiːə/) is a genus of hardy and tender aquatic plants in the family Nymphaeaceae. The genus has a cosmopolitan distribution. Many species are cultivated as ornamental plants, and many cultivars have been bred. Some taxa occur as introduced species where they are not native, and some are weeds.[1] Plants of the genus are known commonly as [water lilies](Q3347071), [or waterlilies in the United Kingdom](https://www.wikidata.org/wiki/Q3347071). 
 
 
 [1] Jepson Flora Project (ed.). "Nymphaea". Jepson eFlora. The Jepson Herbarium, University of California, Berkeley.
