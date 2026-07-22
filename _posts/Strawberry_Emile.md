@@ -8,7 +8,7 @@ tags: flower food temperate
 published: false 
 media_subpath: /assets/posts/strawberry_Emile 
 image: 
-  path: wc:Smith_-_Chinese_Tree_Peony_(Paeonia_suffruticosa)_-_1939.288_-_Cleveland_Museum_of_Art.jpg 
+  path: wc:Nymphaea_heudelotii_kz01.jpg
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
