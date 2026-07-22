@@ -8,7 +8,7 @@ tags: tropical fruit tree
 published: false 
 media_subpath: /assets/posts/Cashew_JuanFelipe
 image: 
-  path: wc:Smith_-_Chinese_Tree_Peony_(Paeonia_suffruticosa)_-_1939.288_-_Cleveland_Museum_of_Art.jpg 
+  path: wc:2020_01_(Fruit)_-_Cajus.jpg 
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
