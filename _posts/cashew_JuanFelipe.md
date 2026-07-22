@@ -8,7 +8,7 @@ tags: tropical fruit tree
 published: false 
 media_subpath: /assets/posts/Cashew_JuanFelipe
 image: 
-  path: wc:2020_01_(Fruit)_-_Cajus.jpg 
+  path: wc:2020_01_%28Fruit%29_-_Cajus.jpg 
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
