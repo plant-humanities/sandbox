@@ -8,7 +8,7 @@ tags: flower ornamental temperate
 published: false 
 media_subpath: /assets/posts/water_lily_Stephanie 
 image: 
-  path: wc:Smith_-_Chinese_Tree_Peony_(Paeonia_suffruticosa)_-_1939.288_-_Cleveland_Museum_of_Art.jpg 
+  path: wc:Nymphaea_alba_JdP_2013-06-08_n01.jpg 
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 ---
