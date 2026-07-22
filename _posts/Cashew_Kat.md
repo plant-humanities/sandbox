@@ -9,7 +9,7 @@ tags: tropical evergreen - family Anacardiaceae
 published: false 
 media_subpath: /assets/posts/Cashew_Kat
 image: 
-  path: wc:Cashew_plant.jpg
+  path: wc:Cashew_tree_(Anacardium_occidentale)._കശുമാവ്.Flower_2.jpg
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 ---
