@@ -1,5 +1,5 @@
 --- 
-title: # Cashew
+title: 'Cashew'
 description: *"the nut that produces itself"*
 author: Sydney Neal 
 date: 2026-07-21 
