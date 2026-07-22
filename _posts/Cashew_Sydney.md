@@ -1,6 +1,6 @@
 --- 
 title: 'Cashew'
-description: *"the nut that produces itself"*
+description: TBD
 author: Sydney Neal 
 date: 2026-07-21 
 permalink: /Cashewsydney 
@@ -12,6 +12,8 @@ image:
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
+# Cashew
+*"the nut that produces itself"*
 
 Cashew (Source: Wikipedia)
 Cashew is the common name of a tropical evergreen tree Anacardium occidentale, in the family Anacardiaceae. It is the source of the cashew nut and the cashew apple. The tree can grow as tall as 14 meters (46 feet).
