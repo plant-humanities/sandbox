@@ -10,7 +10,6 @@ published: false
 media_subpath: /assets/posts/Cashew_Kat
 image: 
   path: wc:Cashew_plant.jpg
-
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 ---
