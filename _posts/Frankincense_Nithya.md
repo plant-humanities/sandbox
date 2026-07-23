@@ -25,3 +25,9 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 
 {% include embed/image.html id="img2" src="wc:Boswellia_sacra_-_Köhler–s_Medizinal-Pflanzen-022.jpg" caption="Franz Eugen Köhler, Köhler's Medizinal-Pflanzen,	1897, Wikimedia Commons, public domain" aspect="4.68" %}
+
+
+
+
+
+
