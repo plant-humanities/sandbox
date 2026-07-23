@@ -8,7 +8,7 @@ tags: flower ornamental temperate
 published: false
 media_subpath: /assets/posts/WaterLily_Federica
 image: 
-  path: wc:A_single_blue_water_lily_in_bloom.jpg 
+  path: wc:A_single_blue_water_lily_in_bloom.jpg
 storykit: true 
 categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
 ---
@@ -22,3 +22,5 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 
 {% include embed/image.html id="img2" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
+
+{% include embed/image.html src="Claude_Monet_-_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg" caption="Wikimedia Commons ecc." aspect="1.33" %}
