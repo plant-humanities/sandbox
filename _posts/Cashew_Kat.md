@@ -25,5 +25,5 @@ The nut shell and raw seed are toxic, but the nut is edible once shelled and roa
 
 [^1]: Haßmann, Ute (11 April 2025). "Cashew – raw, delightfully tricky". ScienceDirect.com. Poison of the Month. Elsevier. Retrieved 22 May 2026.
 
-{% include embed/image.html id="img2" src="wc:[A_picture_showing_a_lady_and_a_man_plucking_cashew_from_a_cashew_tree.jpg] " caption="This is an image showing a lady and an elderly man plucking cashew from a cashew tree in Ilorin, Kwara State Nigeria, Wikimedia Commons, public domain" aspect="4.68" %} 
+{% include embed/image.html id="img2" src="wc:[Byam_Cashew.jpg] " caption="Plate V in Byam's Fruits of the West Indies. Fruit and nut of the cashew tree. The fruit of the cashew tree is a pseudo-fruit or peduncle. The nut of the cashew grows in a hard shell at the end of the peduncle. Scientific name: Anacardium occidentale. Engraved and hand-colored image,1800,*Fruits of the West Indies*, Lydia Byam, Wikimedia Commons, public domain" aspect="4.68" %} 
 
