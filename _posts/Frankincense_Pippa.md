@@ -19,4 +19,4 @@ Frankincense, also known as *olibanum* (/oʊˈlɪbənəm/), is an aromatic resin
 
 [^1]: "Frankincense". The Oxford English Dictionary. Vol. IV: F–G (reprint 1978 ed.). Oxford: Oxford University Press. 1933. p. 512. Retrieved 2021-07-04.
 
-{% include embed/image.html id="img1" src=wc"Frankincense_2005-12-31.jpg" caption="Frankincense I bought in Somalia on 15/Jul/2005" aspect="1.33" %} 
+{% include embed/image.html id="img1" src=wc:"Frankincense_2005-12-31.jpg" caption="Frankincense I bought in Somalia on 15/Jul/2005" aspect="1.33" %} 
