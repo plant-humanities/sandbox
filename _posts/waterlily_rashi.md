@@ -20,4 +20,4 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 [^1]: Jepson Flora Project (ed.). "Nymphaea". Jepson eFlora. The Jepson Herbarium, University of California, Berkeley.
 
-{% include embed/image.html id="img2" src="wc:Water_lily_flower_in_the_garden_of_Heian_Shrine_in_Kyoto,_20240820_0954_4947.jpg" caption="Water lily flower in the garden of Heian Shrine in Kyoto, Wikimedia Commons, public domain" aspect="4.68" %}
+{% include embed/image.html id="img2" src="wc:Pink_Water_Lily_Karala_Boat_House.jpg" caption="Pink Water Lily Karala Boat House, Wikimedia Commons, public domain" aspect="4.68" %}
