@@ -19,3 +19,6 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 
 [^1]: Jepson Flora Project (ed.). "Nymphaea". Jepson eFlora. The Jepson Herbarium, University of California, Berkeley.
+
+
+{% include embed/image.html id="img2" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
