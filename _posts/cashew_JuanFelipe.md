@@ -19,5 +19,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 {% include embed/image.html id="img1" src="wc:Debret_negra_vendendo_caju.jpg#/media/File:Debret_negra_vendendo_caju.jpg" aspect="4.68" %} 
 
+{% include embed/image.html id="img2" src="A_ripe_cashew_fruit.jpg" caption="A ripe cashew fruit from Wikimedia commons" aspect="1.33" %}
+
 [^1]: Haßmann, Ute (11 April 2025). "Cashew – raw, delightfully tricky". ScienceDirect.com. Poison of the Month. Elsevier. Retrieved 22 May 2026.
 
