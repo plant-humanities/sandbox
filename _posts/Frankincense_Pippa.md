@@ -6,7 +6,7 @@ date: 2026-07-21
 permalink: /frankincense 
 tags: tree 
 published: false
-media_subpath: /assets/posts/frankincense_pippa 
+media_subpath: /assets/posts/Frankincense 
 image: 
   path: wc:Periplus_120_Frankincense.png
 storykit: true 
@@ -20,5 +20,5 @@ Frankincense, also known as *olibanum* (/oʊˈlɪbənəm/), is an aromatic resin
 
 {% include embed/image.html id="img2" src="wc:Frankincense_2005-12-31.jpg" caption="Frankincense I bought in Somalia on 15/Jul/2005" aspect="4.68" %} 
 
-{% include embed/image.html id="img1" src="Frankincense_Pippa" caption="Weihrauch im Gefäß" aspect="1.33" %} 
+{% include embed/image.html id="img1" src="Frankincense_Weihrauch_im_Gefäß_02.jpg" caption="Weihrauch im Gefäß" aspect="1.33" %} 
 
