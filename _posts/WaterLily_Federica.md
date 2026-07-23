@@ -6,7 +6,7 @@ date: 2026-07-22
 permalink: /waterlily
 tags: flower ornamental temperate 
 published: false
-media_subpath: /assets/posts/WaterLily_Federica 
+media_subpath: /assets/posts/WaterLily_Federica
 image: 
   path: wc:A_single_blue_water_lily_in_bloom.jpg
 storykit: true 
