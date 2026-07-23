@@ -27,3 +27,4 @@ The nut shell and raw seed are toxic, but the nut is edible once shelled and roa
 
 {% include embed/image.html id="img2" src="wc:Byam_Cashew.jpg" caption="Plate V in Byam's Fruits of the West Indies. Fruit and nut of the cashew tree. The fruit of the cashew tree is a pseudo-fruit or peduncle. The nut of the cashew grows in a hard shell at the end of the peduncle. Scientific name: Anacardium occidentale. Engraved and hand-colored image,1800,*Fruits of the West Indies*, Lydia Byam, Wikimedia Commons, public domain" aspect="4.68" %} 
 
+{% include embed/image.html id="img1" src="500px-Cashew_plant_(Ghana).jpg" caption="Cash crop in Northern Ghana, Zakaria Tunsung" aspect="1.33" %} 
