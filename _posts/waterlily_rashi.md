@@ -20,3 +20,4 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 [^1]: Jepson Flora Project (ed.). "Nymphaea". Jepson eFlora. The Jepson Herbarium, University of California, Berkeley.
 
+{% include embed/image.html id="img1" src="IMG_1325.JPG" caption="Archivio di Stato di Firenze (ASF), Miscellanea Medicea (MM) 1, ins. 2, fol. 186r." aspect="1.33" %}
