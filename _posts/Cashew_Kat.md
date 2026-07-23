@@ -24,3 +24,6 @@ The nut shell and raw seed are toxic, but the nut is edible once shelled and roa
 "Cashew" is an English derivation of a Portuguese interpretation of the Indigenous Brazilian Tupi word acajú, literally meaning ["nut that produces itself"](https://hort.purdue.edu/newcrop/morton/cashew_apple.html).
 
 [^1]: Haßmann, Ute (11 April 2025). "Cashew – raw, delightfully tricky". ScienceDirect.com. Poison of the Month. Elsevier. Retrieved 22 May 2026.
+
+{% include embed/image.html id="img2" src="wc::A_picture_showing_a_lady_and_a_man_plucking_cashew_from_a_cashew_tree.jpg" caption="This is an image showing a lady and an elderly man plucking cashew from a cashew tree in Ilorin, Kwara State Nigeria, Wikimedia Commons, public domain" aspect="4.68" %} 
+
