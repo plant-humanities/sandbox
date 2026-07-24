@@ -25,8 +25,8 @@ The nut shell and raw seed are toxic, but the nut is edible once shelled and roa
 
 [^1]: Haßmann, Ute (11 April 2025). "Cashew – raw, delightfully tricky". ScienceDirect.com. Poison of the Month. Elsevier. Retrieved 22 May 2026.
 
-{% include embed/image.html id="img2" src="wc:Byam_Cashew.jpg" caption="Plate V in Byam's Fruits of the West Indies. Fruit and nut of the cashew tree. The fruit of the cashew tree is a pseudo-fruit or peduncle. The nut of the cashew grows in a hard shell at the end of the peduncle. Scientific name: Anacardium occidentale. Engraved and hand-colored image,1800,*Fruits of the West Indies*, Lydia Byam, Wikimedia Commons, public domain" aspect="4.68" %} 
+{% include embed/image.html id="img2" src="wc:Byam_Cashew.jpg" caption="Plate V in Byam's Fruits of the West Indies. Fruit and nut of the cashew tree. The fruit of the cashew tree is a pseudo-fruit or peduncle. The nut of the cashew grows in a hard shell at the end of the peduncle. Scientific name: Anacardium occidentale. Engraved and hand-colored image,1800,*Fruits of the West Indies*, Lydia Byam, Wikimedia Commons, public domain" aspect="1.5" %} 
 
-{% include embed/image.html id="img1" src="500px-Cashew_plant_(Ghana).jpg" caption="Cash crop in Northern Ghana, Zakaria Tunsung" aspect="4.68" %} 
+{% include embed/image.html id="img1" src="500px-Cashew_plant_(Ghana).jpg" caption="Cash crop in Northern Ghana, Zakaria Tunsung" aspect="1.5" %} 
 
-{% include embed/image-compare.html id="img4" before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" caption="Roasted vs. raw cashews." aspect="4.68" %}
+{% include embed/image-compare.html id="img4" before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" caption="Roasted vs. raw cashews." aspect="1.5" %}
