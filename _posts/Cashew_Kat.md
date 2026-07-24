@@ -29,4 +29,4 @@ The nut shell and raw seed are toxic, but the nut is edible once shelled and roa
 
 {% include embed/image.html id="img1" src="500px-Cashew_plant_(Ghana).jpg" caption="Cash crop in Northern Ghana, Zakaria Tunsung" aspect="4.68" %} 
 
-{% include embed/image-compare.html id="img4" before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" caption="Roasted vs. raw cashews." aspect="1.5" %}
+{% include embed/image-compare.html id="img4" before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" caption="Roasted vs. raw cashews." aspect="4.68" %}
