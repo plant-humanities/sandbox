@@ -10,7 +10,7 @@ media_subpath: /assets/posts/Frankincense
 image: 
   path: wc:Periplus_120_Frankincense.png
 storykit: true 
-categories: ["Gardens & Aesthetics", "Ornamental Cultivation"] 
+categories: ["commodity", "Ornamental Cultivation"] 
 ---
 
 # Frankincense
