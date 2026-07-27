@@ -1,7 +1,7 @@
 ---
 title: 'Frankincense' 
 description: tree resin
-author: Pippa Pemberton
+author: Qianqian Pei
 date: 2026-07-21
 permalink: /frankincense 
 tags: tree 
@@ -21,8 +21,6 @@ Frankincense, also known as *olibanum* (/oʊˈlɪbənəm/), is an aromatic resin
 {% include embed/image.html id="img2" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
 
 {% include embed/image.html id="img1" src="IMG_1325.JPG" caption="Archivio di Stato di Firenze (ASF), Miscellanea Medicea (MM) 1, ins. 2, fol. 186r." aspect="1.33" %} 
-
-compare
 
 {% include embed/image-compare.html before="wc:Frankincense_Weihrauch_im_Gefäß_02.jpg" after="bwc:Bag_of_frankincense_at_Dubai_spice_souk.jpg" class="right" %}  
 
