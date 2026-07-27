@@ -20,5 +20,5 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 [^1]: Jepson Flora Project (ed.). "Nymphaea". Jepson eFlora. The Jepson Herbarium, University of California, Berkeley.
 
-{% include embed/image.html id="img2" src="wc:Pink_Water_Lily_Karala_Boat_House.jpg" caption="Pink Water Lily Karala Boat House, Wikimedia Commons, public domain" aspect="46.8" %}
+{% include embed/image.html id="img2" src="wc:Pink_Water_Lily_Karala_Boat_House.jpg" caption="Pink Water Lily Karala Boat House, Wikimedia Commons, public domain" aspect="4.68" %}
 
