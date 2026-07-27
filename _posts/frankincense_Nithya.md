@@ -6,7 +6,7 @@ date: 2021-05-24
 permalink: /frankincense
 tags: flower ornamental temperate 
 published: false
-media_subpath: /assets/posts/frankincense_Nithya
+media_subpath: /assets/posts/frankincense_Nithya.md
 image:
   path: wc:Periplus_120_Frankincense.png
 storykit: true 
