@@ -6,7 +6,7 @@ date: 2026-07-21
 permalink: /Cashewsydney 
 tags: nut 
 published: false 
-media_subpath: /assets/posts/readme.md 
+media_subpath: /assets/posts/Cashew_Sydney 
 image: 
   path: wc:Cashew_-_sprout.jpg
 storykit: true 
