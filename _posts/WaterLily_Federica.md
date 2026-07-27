@@ -28,4 +28,4 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
  # Other 
  Water lilies provide food for fish and wildlife but sometimes cause drainage problems because of their rapid growth. 
  
- {% include embed/image-compare.html before="wc:Cleaned-Illustration_Nymphaea_alba.jpg" after="wc:Nymphaea_amazonum.jpg" class="right" %}
+ {% include embed/image-compare.html before="wc:Cleaned-Illustration_Nymphaea_alba.jpg" after="wc:Nymphaea_amazonum.jpg" class="right" aspect="0.8" %}
