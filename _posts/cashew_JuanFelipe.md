@@ -6,7 +6,7 @@ date: 2026-07-21
 permalink: /cashew 
 tags: tropical fruit tree  
 published: false 
-media_subpath: /assets/posts/Cashew_JuanFelipe
+media_subpath: /assets/posts/cashew_juanfelipe
 image: 
   path: wc:2020_01_%28Fruit%29_-_Cajus.jpg 
 storykit: true 
