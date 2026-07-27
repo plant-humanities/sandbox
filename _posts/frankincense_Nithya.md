@@ -26,6 +26,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
  
 {% include embed/image.html id="img2" src="Adoration_of_Magi.jpg" caption="Gentile da Fabriano, Uffizi Gallery, 1423" aspect="2.33" %} 
 
+{% include embed/image-compare.html before="wc:Frankincense_Weihrauch_im_Gefäß_02.jpg" after="wc:Bag_of_frankincense_at_Dubai_spice_souk.jpg" class="right" %} 
 
 
 
