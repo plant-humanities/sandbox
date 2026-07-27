@@ -22,3 +22,8 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 {% include embed/image.html id="img2" src="wc:Pink_Water_Lily_Karala_Boat_House.jpg" caption="Pink Water Lily Karala Boat House, Wikimedia Commons, public domain" aspect="4.68" %}
 
+{% include embed/image-compare.html before="linn-hs959-3.jpg" after="bm000628767.jpg" class="right" %}
+
+wc:Cleaned-Illustration_Nymphaea_alba.jpg
+wc:Nymphaea_amazonum.jpg
+
