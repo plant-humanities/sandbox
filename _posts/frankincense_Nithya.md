@@ -23,8 +23,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 
 {% include embed/image.html id="img1" src="wc:Boswellia_sacra_-_Köhler–s_Medizinal-Pflanzen-022.jpg" caption="Franz Eugen Köhler, Köhler's Medizinal-Pflanzen,	1897, Wikimedia Commons, public domain" aspect="4.68" %}
-
-media_subpath: /assets/posts/frankincense_Nithya 
+ 
 {% include embed/image.html id="img2" src="Adoration_of_Magi.jpg" caption="Gentile da Fabriano, Uffizi Gallery, 1423" aspect="2.33" %} 
 
 
