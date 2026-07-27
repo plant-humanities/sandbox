@@ -32,7 +32,15 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 {% include embed/image-compare.html before="wc:Olibanum_resin.jpg" after="wc:Bag_of_frankincense_at_Dubai_spice_souk.jpg" class="right" %}
 
+{% include embed/image-compare.html before="wc:Olibanum_resin.jpg" after="wc:Bag_of_frankincense_at_Dubai_spice_souk.jpg" class="right" %}
 
-
-
-
+{% include embed/youtube.html
+vid="dQw4w9WgXcQ"
+caption="Apollo 11 Moon Landing, July 1969"
+autoplay="true"
+start="90"
+start="1:30"
+start="1:02:30"
+end="150"
+end="2:30"
+id="vid1" %}
