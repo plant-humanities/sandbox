@@ -18,3 +18,4 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 [^1]: Jepson Flora Project (ed.). "Nymphaea." *Jepson eFlora.* The Jepson Herbarium, University of California, Berkeley.
 {% include embed/image.html id="img1" src="wc:Water-Lily_Pond_Monet.jpg" caption="Claude Monet" aspect="1.5" %}
 {% include embed/image.html id="img2" src="mia_49106a_full.jpg" caption="Water Lily, c. 1928–1930, Ohara Shōson, Minneapolis Institute of Art" aspect="1.5" %}
+{% include embed/image-compare.html before="wc:Cleaned-Illustration_Nymphaea_alba.jpg" after="wc:Nymphaea_amazonum.jpg" class="right" %}  
