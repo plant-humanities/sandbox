@@ -6,7 +6,7 @@ date: 2021-05-24
 permalink: /frankincense 
 tags: flower ornamental temperate 
 published: false 
-media_subpath: /nithig333-patch-1/assets/posts/frankincense_Nithya 
+media_subpath: /assets/posts/frankincense_Nithya 
 image: 
   path: wc:Periplus_120_Frankincense.png
 storykit: true 
@@ -22,9 +22,9 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 [^1]:"Frankincense". The Oxford English Dictionary. Vol. IV: F–G (reprint 1978 ed.). Oxford: Oxford University Press. 1933. p. 512. Retrieved 2021-07-04.
 
 
-{% include embed/image.html id="img1" src="wc:Boswellia_sacra_-_Köhler–s_Medizinal-Pflanzen-022.jpg" caption="Franz Eugen Köhler, Köhler's Medizinal-Pflanzen,	1897, Wikimedia Commons, public domain" aspect="4.68" %}
+{% include embed/image.html id="img2" src="wc:Boswellia_sacra_-_Köhler–s_Medizinal-Pflanzen-022.jpg" caption="Franz Eugen Köhler, Köhler's Medizinal-Pflanzen,	1897, Wikimedia Commons, public domain" aspect="4.68" %}
  
-{% include embed/image.html id="img2" src="Adoration_of_Magi.jpg" caption="Gentile da Fabriano, Uffizi Gallery, 1423" aspect="2.33" %} 
+{% include embed/image.html id="img1" src="Adoration_of_Magi.jpg" caption="Gentile da Fabriano, Uffizi Gallery, 1423" aspect="2.33" %} 
 
 {% include embed/image-compare.html before="wc:Frankincense_Weihrauch_im_Gefäß_02.jpg" after="wc:Bag_of_frankincense_at_Dubai_spice_souk.jpg" class="right" %} 
 
