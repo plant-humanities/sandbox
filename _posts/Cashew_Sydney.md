@@ -19,12 +19,11 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 *Cashew (Source: Wikipedia)*
 Cashew is the common name of a tropical evergreen tree Anacardium occidentale, in the family Anacardiaceae. It is the source of the cashew nut and the cashew apple. The tree can grow as tall as 14 meters (46 feet).
 
-
+{% include embed/image-compare.html before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" class="right" %}
 Cashews are native to tropical South America. [Portuguese explorers encountered them in the 16th century and spread them to India and other tropical regions of the world.](https://dab.hawaii.gov/wp-content/uploads/2018/12/Cashew-Trees-in-Hawaii-Guide.pdf) The dwarf cultivars, growing up to 6 m (20 ft), are the most profitable, maturing sooner and producing greater yields. In 2023, 3.9 million tons of cashew nuts were harvested globally, led by the Ivory Coast and India.[^1]
 
 {% include embed/image.html id="img1" src="cashew1.jpg" caption="Cashew production" aspect="1.33" %}
 
-{% include embed/image-compare.html before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" class="right" %} 
 The nut shell and raw seed are toxic, but the nut is edible once shelled and roasted or steamed.[2] Treated cashews are eaten on their own as a snack, used in recipes, or processed into cashew cheese or cashew butter. The cashew apple, an accessory fruit, is a light reddish to yellow fruit, the pulp and juice of which can be processed into a sweet, astringent fruit drink or fermented and distilled into liquor. Additionally, derivatives from the shell are used in products such as varnishes, lubricant, and paints.
 
 {% include embed/image.html id="img2" src="wc:Photo_View_of_cashew_trees_1961_-_Touring_Club_Italiano_BBE_58.jpg" caption="Photo View of cashew trees 1961 - Touring Club Italiano, Wikimedia Commons, public domain" aspect="4.68" %}
