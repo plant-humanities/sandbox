@@ -33,5 +33,8 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 # Water lilies film 
 This is a short video. 
 
-vid="fd-Me3EBGYY" 
+{% include embed/youtube.html
+    vid="fd-Me3EBGYY"
+%} 
+ 
 
