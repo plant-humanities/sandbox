@@ -25,3 +25,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 {% include embed/image.html id="img1" src="Claude_Monet_-_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg" caption="Wikimedia Commons ecc." aspect="1.73" %} 
 
+ # Other 
+ Water lilies provide food for fish and wildlife but sometimes cause drainage problems because of their rapid growth. 
+ 
+ {% include embed/image-compare.html before="wc:Cleaned-Illustration_Nymphaea_alba.jpg" after="wc:Nymphaea_amazonum.jpg" class="right" %}
