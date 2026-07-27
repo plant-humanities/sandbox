@@ -20,7 +20,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 {% include embed/image.html id="img2" src="mia_49106a_full.jpg" caption="Water Lily, c. 1928–1930, Ohara Shōson, Minneapolis Institute of Art" aspect="1.5" %}
 {% include embed/image-compare.html before="wc:Cleaned-Illustration_Nymphaea_alba.jpg" after="wc:Nymphaea_amazonum.jpg" class="right" %}  
 
-# Vegetative Characteristics
+# Vegetative Characteristics 
 
 Water lilies are aquatic, rhizomatous or tuberous, perennial or annual herbs with sometimes desiccation-tolerant, branched or unbranched rhizomes,which can be stoloniferous, or lacking stolons. The tuberous or fibrous roots are contractile. The leaves are mostly floating, but submerged and emergent leaves occur as well. The shape of the lamina can be ovate, orbicular, elliptic, hastate, or sagittate. The width of the lamina ranges in size from 2.5–3 cm to 40–60 cm. The lamina has a deep sinus and the basal lobes can be overlapping or divergent. The margin of the lamina can be entire, dentate, or sinuate. The leaves can be stipulate, or exstipulate. The petioles are a few centimetres to 5–6 m long, and 0.3–1.9 cm wide.
 {% include embed/youtube.html vid="nMvfzHujkqY" %}
