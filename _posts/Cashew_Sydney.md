@@ -20,6 +20,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 Cashew is the common name of a tropical evergreen tree Anacardium occidentale, in the family Anacardiaceae. It is the source of the cashew nut and the cashew apple. The tree can grow as tall as 14 meters (46 feet).
 
 {% include embed/image-compare.html before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" class="right" %}
+
 Cashews are native to tropical South America. [Portuguese explorers encountered them in the 16th century and spread them to India and other tropical regions of the world.](https://dab.hawaii.gov/wp-content/uploads/2018/12/Cashew-Trees-in-Hawaii-Guide.pdf) The dwarf cultivars, growing up to 6 m (20 ft), are the most profitable, maturing sooner and producing greater yields. In 2023, 3.9 million tons of cashew nuts were harvested globally, led by the Ivory Coast and India.[^1]
 
 {% include embed/image.html id="img1" src="cashew1.jpg" caption="Cashew production" aspect="1.33" %}
