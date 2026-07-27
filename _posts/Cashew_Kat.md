@@ -33,7 +33,7 @@ Cashews are sold both raw and roasted, and the difference is easy to see side by
 
 {% include embed/image-compare.html id="img4" before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" caption="Roasted vs. raw cashews." aspect="1.5" %}
 
-Youtube video describing the cashew botanical family and the agricultural processing requirements for cashew crops today. 
+A Youtube video describing the cashew botanical family and the agricultural processing requirements for cashew crops today, due to the presence of a compound called "urushiol" in the *Anacardiaceae* botanical family. 
 
 {% include embed/youtube.html
     vid="CXTZVKYYyig"
