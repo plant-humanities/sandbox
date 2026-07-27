@@ -34,7 +34,6 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 This is a short video. 
 
 {% include embed/youtube.html
-    vid="fd-Me3EBGYY"
-%} 
+    vid="fd-Me3EBGYY" %} 
  
 
