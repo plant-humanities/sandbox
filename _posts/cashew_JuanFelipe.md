@@ -25,5 +25,9 @@ Some text
 
 {% include embed/image-compare.html id="img3" before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" class="right" %}  
 
+{% include embed/youtube.html
+  vid="CXTZVKYYyig"
+%}
+
 [^1]: Haßmann, Ute (11 April 2025). "Cashew – raw, delightfully tricky". ScienceDirect.com. Poison of the Month. Elsevier. Retrieved 22 May 2026.
 
