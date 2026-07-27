@@ -25,7 +25,7 @@ Some text
 
 {% include embed/image-compare.html id="img3" before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" class="right" %}  
 
-Youtube Video
+Youtube Video:
 
 {% include embed/youtube.html vid="CXTZVKYYyig" %}
 
