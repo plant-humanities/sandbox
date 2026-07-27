@@ -20,6 +20,8 @@ Frankincense, also known as *olibanum* (/oʊˈlɪbənəm/), is an aromatic resin
 
 {% include embed/image.html id="img2" src="wc:Frankincense_2005-12-31.jpg" caption="Frankincense I bought in Somalia on 15/Jul/2005" aspect="4.68" %} 
 
+More text
+
 {% include embed/image.html id="img1" src="Frankincense_Weihrauch_im_Gefäß_02.jpg" caption="Weihrauch im Gefäß" aspect="1.33" %} 
 
 Compare
