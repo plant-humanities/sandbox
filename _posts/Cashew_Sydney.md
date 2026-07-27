@@ -24,6 +24,7 @@ Cashews are native to tropical South America. [Portuguese explorers encountered 
 
 {% include embed/image.html id="img1" src="cashew1.jpg" caption="Cashew production" aspect="1.33" %}
 
+{% include embed/image-compare.html before="wc:Roasted_Cashew_Nuts_(52746470588).jpg" after="wc:Cashew_nuts_in_West_Bengal_of_India.jpg" class="right" %} 
 The nut shell and raw seed are toxic, but the nut is edible once shelled and roasted or steamed.[2] Treated cashews are eaten on their own as a snack, used in recipes, or processed into cashew cheese or cashew butter. The cashew apple, an accessory fruit, is a light reddish to yellow fruit, the pulp and juice of which can be processed into a sweet, astringent fruit drink or fermented and distilled into liquor. Additionally, derivatives from the shell are used in products such as varnishes, lubricant, and paints.
 
 {% include embed/image.html id="img2" src="wc:Photo_View_of_cashew_trees_1961_-_Touring_Club_Italiano_BBE_58.jpg" caption="Photo View of cashew trees 1961 - Touring Club Italiano, Wikimedia Commons, public domain" aspect="4.68" %}
