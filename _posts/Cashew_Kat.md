@@ -46,3 +46,6 @@ A Youtube video describing the cashew botanical family and the agricultural proc
     end="1:25"
     caption="Why Cashew Nuts Are So Expensive | Business Insider"
 %}
+
+Across time and space, cashew has played an important role in many human cultures and made place across diverse ecologies in its own right. 
+{% include embed/iframe.html src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSk-6L9s9hFv5rCpp-atIP-kYoJl4fuRECwZaUwpz3qhDQp5wwbPxITwxFGqck9CoaSBxif3GPrApM0&font=Default&lang=en&initial_zoom=2&width=100%25&height=650" class="full" %}
