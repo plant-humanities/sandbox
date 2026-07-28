@@ -34,7 +34,7 @@ please watch this.
     vid="GGVZ8xBHYbA"
 %}
 
-have a look at the [Frankincense basket](img1/zoomto/pct:22.63,4.94,11.41,22.12).
+have a look at the [pot of Frankincense](img1/zoomto/pct:22.63,4.94,11.41,22.12).
 
 {% include embed/image.html
     id="img1"
