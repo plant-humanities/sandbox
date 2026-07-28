@@ -19,7 +19,6 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 [Frankincense](https://en.wikipedia.org/wiki/Frankincense), also known as olibanum (/oʊˈlɪbənəm/), is an aromatic resin used in incense and perfume, obtained from trees of the genus Boswellia in the family Burseraceae. The word is from Old French franc encens ('high-quality incense').[^1] There are several species of [Boswellia](Q133964) that produce frankincense, including, but not limited to, Boswellia sacra (syn. B. bhaw-dajiana, syn. B. carteri), B. frereana, B. serrata (B. thurifera), and B. papyrifera. Resin from each is available in various grades which is affected by the time in which it is harvested. The resin is hand-sorted for quality.
 
-# footnote
 
 [^1]:"Frankincense". The Oxford English Dictionary. Vol. IV: F–G (reprint 1978 ed.). Oxford: Oxford University Press. 1933. p. 512. Retrieved 2021-07-04.
 
@@ -28,19 +27,19 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 [Frankincense](https://en.wikipedia.org/wiki/Frankincense), also known as olibanum (/oʊˈlɪbənəm/), is an aromatic resin used in incense and perfume, obtained from trees of the genus Boswellia in the family Burseraceae. The word is from Old French franc encens ('high-quality incense').[^1] There are several species of [Boswellia](Q133964) that produce frankincense, including, but not limited to, Boswellia sacra (syn. B. bhaw-dajiana, syn. B. carteri), B. frereana, B. serrata (B. thurifera), and B. papyrifera. Resin from each is available in various grades which is affected by the time in which it is harvested. The resin is hand-sorted for quality.
 
-# image embed
+
 {% include embed/image.html id="img1" src="Adoration_of_Magi.jpg" caption="Gentile da Fabriano, Uffizi Gallery, 1423" aspect="2.33" %}
 
 [Frankincense](https://lab.plant-humanities.org/admin/storykit-youtube-viewer), also known as olibanum (/oʊˈlɪbənəm/), is an aromatic resin used in incense and perfume, obtained from trees of the genus Boswellia in the family Burseraceae. The word is from Old French franc encens ('high-quality incense').[^1] There are several species of [Boswellia](Q133964) that produce frankincense, including, but not limited to, Boswellia sacra (syn. B. bhaw-dajiana, syn. B. carteri), B. frereana, B. serrata (B. thurifera), and B. papyrifera. Resin from each is available in various grades which is affected by the time in which it is harvested. The resin is hand-sorted for quality.
 
-# compare image
+
 {% include embed/image-compare.html before="wc:Olibanum_resin.jpg" after="wc:Bag_of_frankincense_at_Dubai_spice_souk.jpg" class="right" %}
 
 {% include embed/image-compare.html before="wc:Olibanum_resin.jpg" after="wc:Bag_of_frankincense_at_Dubai_spice_souk.jpg" class="right" %}
 
 [Frankincense](https://lab.plant-humanities.org/admin/storykit-youtube-viewer), also known as olibanum (/oʊˈlɪbənəm/), is an aromatic resin used in incense and perfume, obtained from trees of the genus Boswellia in the family Burseraceae. The word is from Old French franc encens ('high-quality incense').[^1] There are several species of [Boswellia](Q133964) that produce frankincense, including, but not limited to, Boswellia sacra (syn. B. bhaw-dajiana, syn. B. carteri), B. frereana, B. serrata (B. thurifera), and B. papyrifera. Resin from each is available in various grades which is affected by the time in which it is harvested. The resin is hand-sorted for quality.
 
-# embed youtube
+
 {% include embed/youtube.html
 vid="dQw4w9WgXcQ"
 caption="Apollo 11 Moon Landing, July 1969"
@@ -54,7 +53,7 @@ id="vid1" %}
 
 [Frankincense](https://lab.plant-humanities.org/admin/storykit-youtube-viewer), also known as olibanum (/oʊˈlɪbənəm/), is an aromatic resin used in incense and perfume, obtained from trees of the genus Boswellia in the family Burseraceae. The word is from Old French franc encens ('high-quality incense').[^1] There are several species of [Boswellia](Q133964) that produce frankincense, including, but not limited to, [Boswellia sacra](img3/zoomto/pct:67.68,34.23,23.22,27) (syn. B. bhaw-dajiana, syn. B. carteri), B. frereana, B. serrata (B. thurifera), and B. papyrifera. Resin from each is available in various grades which is affected by the time in which it is harvested. The resin is hand-sorted for quality.
 
-# embed zoom to  
+ 
 {% include embed/image.html
     id="img3"
     src="wc:Boswellia sacra kz03.jpg"
