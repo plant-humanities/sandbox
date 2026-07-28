@@ -34,14 +34,14 @@ more text
     vid="GGVZ8xBHYbA"
 %}
 
-have a look at the [Frankincense basket](img1/zoomto/pct:22.63,4.94,11.41,22.12)
+have a look at the [Frankincense basket](img1/zoomto/pct:22.63,4.94,11.41,22.12).
 
 {% include embed/image.html
     id="img1"
     src="Frankincense_Weihrauch_im_Gefäß_02.jpg"
 %}
 
-here's the [Merrick Butte](img1/zoomto/pct:67.68,34.23,23.22,27) example
+here's the [Merrick Butte](img1/zoomto/pct:67.68,34.23,23.22,27) example.
 
 {% include embed/image.html
     id="img1"
