@@ -47,10 +47,10 @@ end="150"
 end="2:30"
 id="vid1" %}
 
-[Frankincense](https://lab.plant-humanities.org/admin/storykit-youtube-viewer), also known as olibanum (/oʊˈlɪbənəm/), is an aromatic resin used in incense and perfume, obtained from trees of the genus Boswellia in the family Burseraceae. The word is from Old French franc encens ('high-quality incense').[^1] There are several species of [Boswellia](Q133964) that produce frankincense, including, but not limited to, [Boswellia sacra](img1/zoomto/pct:67.68,34.23,23.22,27) (syn. B. bhaw-dajiana, syn. B. carteri), B. frereana, B. serrata (B. thurifera), and B. papyrifera. Resin from each is available in various grades which is affected by the time in which it is harvested. The resin is hand-sorted for quality.
+[Frankincense](https://lab.plant-humanities.org/admin/storykit-youtube-viewer), also known as olibanum (/oʊˈlɪbənəm/), is an aromatic resin used in incense and perfume, obtained from trees of the genus Boswellia in the family Burseraceae. The word is from Old French franc encens ('high-quality incense').[^1] There are several species of [Boswellia](Q133964) that produce frankincense, including, but not limited to, [Boswellia sacra](img3/zoomto/pct:67.68,34.23,23.22,27) (syn. B. bhaw-dajiana, syn. B. carteri), B. frereana, B. serrata (B. thurifera), and B. papyrifera. Resin from each is available in various grades which is affected by the time in which it is harvested. The resin is hand-sorted for quality.
 
 {% include embed/image.html
-    id="img1"
+    id="img3"
     src="wc:Boswellia sacra kz03.jpg"
     %}
 
