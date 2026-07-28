@@ -28,4 +28,4 @@ Water lilies are aquatic, rhizomatous or tuberous, perennial or annual herbs wit
 # Monet 
 Monet's paintings are among the most famous depictions of [water lilies](img3/zoomto/pct:37.99,33.09,28.81,39.86).
 
-{% include embed/image.html id="img3" src="wc:Water-Lily_Pond_Monet.jpg" %}
+{% include embed/image.html id="img3" src="wc:Water-Lily_Pond_Monet.jpg" caption="Claude Monet" %}
