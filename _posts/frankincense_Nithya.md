@@ -58,4 +58,6 @@ id="vid1" %}
     id="img3"
     src="wc:Boswellia sacra kz03.jpg"
     %}
+    
+{% include embed/iframe.html src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kjtI9t7HgoZRiDeDyGjXXabVm2b3nZqTYFxnmxQUFFI&timenav-position=bottom&hash-bookmark=false&initial-zoom=1" class="full" %}
 
