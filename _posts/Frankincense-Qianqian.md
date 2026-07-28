@@ -40,5 +40,6 @@ categories: ["Boswellia", "Pharmacology", "Phytochemistry"]
 555
 {% include embed/iframe.html src="[https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kjtI9t7HgoZRiDeDyGjXXabVm2b3nZqTYFxnmxQUFFI&timenav-position=bottom&hash-bookmark=false&initial-zoom=1](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSkZpA8ikCQDcast9bSf-csZwbErWesGdqp57BPMougm3N2ovk4-YV71evr5mOZNJhgFT0AiF6Hj09Y&font=Default&lang=en&initial_zoom=2&width=100%25&height=650)" class="full" %}
 
+{% include embed/iframe.html src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kjtI9t7HgoZRiDeDyGjXXabVm2b3nZqTYFxnmxQUFFI&timenav-position=bottom&hash-bookmark=false&initial-zoom=1" class="full" %}
 
 [^1]: "Frankincense". The Oxford English Dictionary. Vol. IV: F–G (reprint 1978 ed.). Oxford: Oxford University Press. 1933. p. 512. Retrieved 2021-07-04.
