@@ -38,3 +38,7 @@ This is a short video.
 # Other again
 Water lilies zoom. This is a [Lily](img5/zoomto/pct:29.36,19.96,11.76,12.17)
 {% include embed/image.html id="img5" src="Claude_Monet_-_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg" caption="Wikimedia Commons ecc." aspect="1" %}
+
+# Timeline
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRd5NJ0_0g8-UzdT473iXk4NF4BCG4Rxon6CJ4qgbakP8h7uUh-KjRmPAA9IeEUZDLKv9PtwoLIcVEb&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
