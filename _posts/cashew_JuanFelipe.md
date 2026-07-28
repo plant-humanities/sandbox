@@ -21,8 +21,6 @@ Image 1:
 
 {% include embed/image.html id="img1" src="wc:Debret_negra_vendendo_caju.jpg#/media/File:Debret_negra_vendendo_caju.jpg" aspect="4.68" %} 
 
-Image 2: 
-
 {% include embed/image.html id="img2" src="A_ripe_cashew_fruit.jpg" caption="A ripe cashew fruit from Wikimedia commons" aspect="1.33" %}
 
 Some text:
