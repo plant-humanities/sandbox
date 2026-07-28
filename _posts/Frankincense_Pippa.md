@@ -28,7 +28,7 @@ Compare
 
 {% include embed/image-compare.html before="wc:Olibanum_resin.jpg" after="wc:Bag_of_frankincense_at_Dubai_spice_souk.jpg" class="right" aspect="3" %}  
 
-more text
+please watch this.
 
 {% include embed/youtube.html
     vid="GGVZ8xBHYbA"
