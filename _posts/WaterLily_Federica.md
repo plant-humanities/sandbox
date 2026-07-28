@@ -24,7 +24,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 {% include embed/image.html id="img2" src="wc:Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._(46x180)_Liaoning_Provincial_Museum,_Shenyang..jpg" caption="Zhou Fang, Court Ladies Adorning Their Hair with Flowers, late 8th–early 9th century CE, Liaoning Provincial Museum, Wikimedia Commons, public domain" aspect="4.68" %} 
 
 {% include embed/image.html id="img1" src="Claude_Monet_-_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg" caption="Wikimedia Commons ecc." aspect="1" %} 
-[Water-Lily](img1/zoomto/pct:29.36,19.96,11.76,12.17) 
+[Water-Lily](img1/zoomto/pct:29.36,19.96,11.76,12.17)
 
  # Other 
  Water lilies provide food for fish and wildlife but sometimes cause drainage problems because of their rapid growth. 
