@@ -48,10 +48,3 @@ here's the [Merrick Butte](img1/zoomto/pct:67.68,34.23,23.22,27) example
     src="wc:Monument_Valley,_Utah,_USA.jpg"
 %}
 
-
-here's the [Merrick Butte](img1/zoomto/pct:67.68,34.23,23.22,27) example
-
-{% include embed/image.html
-    id="img1"
-    src="wc:Monument_Valley,_Utah,_USA.jpg"
-%}
