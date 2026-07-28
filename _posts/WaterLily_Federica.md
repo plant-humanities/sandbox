@@ -36,6 +36,5 @@ This is a short video.
 {% include embed/youtube.html vid="fd-Me3EBGYY&t=2s" %}
  
 # Other again
-Water lilies zoom. 
+Water lilies zoom. This is a [Lily](img1/zoomto/pct:29.36,19.96,11.76,12.17)
 {% include embed/image.html id="img1" src="Claude_Monet_-_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg" caption="Wikimedia Commons ecc." aspect="1" %}
-[Lily](img1/zoomto/pct:29.36,19.96,11.76,12.17)
