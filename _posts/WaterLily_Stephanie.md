@@ -24,3 +24,8 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 
 Water lilies are aquatic, rhizomatous or tuberous, perennial or annual herbs with sometimes desiccation-tolerant, branched or unbranched rhizomes,which can be stoloniferous, or lacking stolons. The tuberous or fibrous roots are contractile. The leaves are mostly floating, but submerged and emergent leaves occur as well. The shape of the lamina can be ovate, orbicular, elliptic, hastate, or sagittate. The width of the lamina ranges in size from 2.5–3 cm to 40–60 cm. The lamina has a deep sinus and the basal lobes can be overlapping or divergent. The margin of the lamina can be entire, dentate, or sinuate. The leaves can be stipulate, or exstipulate. The petioles are a few centimetres to 5–6 m long, and 0.3–1.9 cm wide.
 {% include embed/youtube.html vid="nMvfzHujkqY" %}
+
+# Monet 
+Monet's paintings are among the most famous depictions of water lilies.
+{% include embed/image.html id="img3" src="wc:Water-Lily_Pond_Monet.jpg" %}
+
