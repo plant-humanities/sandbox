@@ -30,7 +30,7 @@ The nut shell and raw seed are toxic, but the nut is edible once shelled and roa
 {% include embed/youtube.html vid="CXTZVKYYyig" autoplay="false" caption="Why Cashew Nuts are so Expensive, Business Insider" %}
 
 The cashew apple, an accessory fruit, is a light reddish to yellow fruit, the pulp and juice of which can be processed into a sweet, astringent fruit drink or fermented and distilled into liquor. 
-{% include embed/image.html  id="img1" src="cashew1.jpg" (img3/zoomto/138,0,979,821)​ %}
+{% include embed/image.html  id="img1" src="cashew1.jpg" (img3/zoomto/pct:21.77,26.45,69.92,51.24) %}
 
 Additionally, derivatives from the shell are used in products such as varnishes, lubricant, and paints.
 
