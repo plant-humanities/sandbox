@@ -29,7 +29,7 @@ Zoom into [Byam's Fruits of the West Indies](img2/zoomto/pct:18.42,28.79,54.09,4
 
 {% include embed/image.html id="img2" src="wc:Byam_Cashew.jpg" caption="Plate V in Byam's Fruits of the West Indies. Fruit and nut of the cashew tree. Scientific name: *Anacardium occidentale*. Engraved and hand-colored image,1800,*Fruits of the West Indies*, Lydia Byam, Wikimedia Commons, public domain" aspect="2" %} 
 
-Cashew is a globalized plant, and particularly a commodity crop in Ghana and other African countries. 
+Cashew is a globalized plant, and particularly an international commodity crop in Ghana among other countries. 
 
 {% include embed/image.html id="img1" src="500px-Cashew_plant_(Ghana).jpg" caption="Cash crop in Northern Ghana, Zakaria Tunsung" aspect="2" %} 
 
