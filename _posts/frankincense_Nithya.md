@@ -51,6 +51,6 @@ id="vid1" %}
 
 {% include embed/image.html
     id="img1"
-    src="wc:Boswellia_Resin_in_a_grey_bowl_-_50191148388.jpg"
+    src="wc:Boswellia sacra kz03.jpg"
     %}
 
