@@ -63,3 +63,9 @@ here's a map
 	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" 
 %}
 
+{% include embed/map.html 
+	center="18.10596,-94.04924" 
+	zoom="4.5" 
+	basemap="Esri_WorldPhysical" 
+	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" 
+	geojson="socotra.geojson" 
