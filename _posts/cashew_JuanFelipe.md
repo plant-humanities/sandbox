@@ -41,7 +41,7 @@ Map:
 
 {% include embed/map.html
     center="6.178593571442289, -67.48478387129992"
-    geojson="Untitled.geojson"
+    geojson="Untitled1.geojson"
 %}
 
 
