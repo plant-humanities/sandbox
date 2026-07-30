@@ -49,3 +49,11 @@ A Youtube video describing the cashew botanical family and the agricultural proc
 
 Across time and space, cashew has played an important role in many human cultures and made place across diverse ecologies in its own right. 
 {% include embed/iframe.html src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSk-6L9s9hFv5rCpp-atIP-kYoJl4fuRECwZaUwpz3qhDQp5wwbPxITwxFGqck9CoaSBxif3GPrApM0&font=Default&lang=en&initial_zoom=2&width=100%25&height=650" class="full" %}
+
+
+
+{% include embed/map.html
+    center="-5.978657, -35.123372"
+    caption="Cashew of Pirangi, Pirangi do Norte, Rio Grande do Norte, Brazil"
+    markers="-5.9765, -35.1222~Pirangi do Norte"
+%}
