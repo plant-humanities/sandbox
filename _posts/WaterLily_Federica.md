@@ -52,3 +52,4 @@ Water lilies zoom. This is a [Lily](img5/zoomto/pct:29.36,19.96,11.76,12.17)
 	caption="Water lilies in Europe" 
   geojson="Waterliliescirculation.geojson"
 %}
+ 
