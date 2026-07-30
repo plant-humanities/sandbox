@@ -38,6 +38,7 @@ Additionally, derivatives from the shell are used in products such as varnishes,
 	zoom="1" 
 	basemap="Esri_WorldPhysical" 
 	caption="World's Largest Cashew Tree (Pirangi do Norte, Rio Grande do Norte)" 
+  geojson="columbia.geojson" %}
 %}
 
 
