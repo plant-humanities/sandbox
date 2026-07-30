@@ -36,3 +36,9 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
     vid="TWSF3df6jUs&t=1s"
 %}
 
+{% include embed/map.html 
+	center="18.10596,-94.04924" 
+	zoom="4.5" 
+	basemap="Esri_WorldPhysical" 
+	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans"  
+%}
