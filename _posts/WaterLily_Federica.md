@@ -49,5 +49,5 @@ Water lilies zoom. This is a [Lily](img5/zoomto/pct:29.36,19.96,11.76,12.17)
 	center="18.10596,-94.04924" 
 	zoom="4.5" 
 	basemap="Esri_WorldPhysical" 
-	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" 
+	caption="Water lilies in Europe" 
 %}
