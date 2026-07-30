@@ -69,7 +69,7 @@ id="vid1" %}
 
 {% include embed/map.html 
 	center="18.253333, 53.647500" 
-	zoom="1.5" 
+	zoom="4.5" 
 	basemap="Land of Frankincense" 
 	caption="Land of Frankincense, Oman UNESCO World Heritage Site" 
   geojson="Land_of_Frankincese.geojson~Land of Frankincense, Oman UNESCO World Heritage Site" 
