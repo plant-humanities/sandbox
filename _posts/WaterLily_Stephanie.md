@@ -35,9 +35,8 @@ Monet's paintings are among the most famous depictions of [water lilies](img3/zo
 
 # Map 
 {% include embed/map.html 
-	center="18.10596,-94.04924" 
+	center="49.075572472121046, 1.5336766779105755" 
 	zoom="4.5" 
 	basemap="Esri_WorldPhysical" 
-	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" 
-	geojson="Neotropics.geojson~Neotropics|Mexica.geojson~Mexica" 
+	caption="Location of Monet's Garden at Giverny"
 %}
