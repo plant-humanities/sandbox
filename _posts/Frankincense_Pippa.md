@@ -61,5 +61,5 @@ here's a map
 	zoom="4.98" 
 	basemap="Esri_WorldPhysical" 
 	caption="location of Socotra" 
-	geojson="socotra.geojson" 
+	geojson="Socotra.geojson" 
 %}
