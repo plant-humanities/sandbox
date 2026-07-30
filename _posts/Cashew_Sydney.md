@@ -34,10 +34,10 @@ The cashew apple, an accessory fruit, is a light reddish to yellow fruit, the pu
 Additionally, derivatives from the shell are used in products such as varnishes, lubricant, and paints.
 
 {% include embed/map.html 
-	center=" 2°54'02”S,41°34'02”W" 
+	center="5°58'38”S; 35°07'06”W" 
 	zoom="4.5" 
 	basemap="Esri_WorldPhysical" 
-	caption="The "Cashew King" (Cajueiro da Praia, Piauí)" 
+	caption="World's Largest Cashew Tree (Pirangi do Norte, Rio Grande do Norte)" 
 %}
 
 
