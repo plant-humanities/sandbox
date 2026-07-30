@@ -57,5 +57,5 @@ The Cashew Tree of Pirangi (Cajueiro de Pirangi), also called the world's larges
 	zoom="4.5" 
 	basemap="Esri_WorldPhysical" 
 	caption="Cashew of Pirangi, Pirangi do Norte, Rio Grande do Norte, Brazil" 
-	geojson="ph test.geojson~Pirangi, Brazil"
+	geojson="ph test.geojson"
 %}
