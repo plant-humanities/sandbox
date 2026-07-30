@@ -50,6 +50,10 @@ categories: ["Boswellia", "Pharmacology", "Phytochemistry"]
 	zoom="4.5" 
 	basemap="Esri_WorldPhysical" 
 	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" 
+	geojson="Neotropics.geojson~Neotropics|Mexica.geojson~Mexica" 
 %}
+
+
+999
 
 [^1]: "Frankincense". The Oxford English Dictionary. Vol. IV: F–G (reprint 1978 ed.). Oxford: Oxford University Press. 1933. p. 512. Retrieved 2021-07-04.
