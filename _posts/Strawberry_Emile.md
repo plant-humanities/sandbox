@@ -20,7 +20,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 *Nymphaea* (/nɪmˈfiːə/) is a genus of hardy and tender aquatic plants in the family Nymphaeaceae. The genus has a cosmopolitan distribution. Many species are cultivated as ornamental plants, and many cultivars have been bred. Some taxa occur as introduced species where they are not native, and some are weeds.[1] Plants of the genus are known commonly as [water lilies](https://en.wikipedia.org/wiki/Nymphaea), or [waterlilies are great](Q146628) in the United Kingdom.
 
 
-{% include embed/map.html center="Q128172" zoom="10" geojson="Untitled.geojson" %}
+{% include embed/map.html center="Q128172" zoom="10" geojson="untitled2map.geojson" %}
 
 
 [1] Jepson Flora Project (ed.). "Nymphaea". Jepson eFlora. The Jepson Herbarium, University of California, Berkeley.
