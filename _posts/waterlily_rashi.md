@@ -36,6 +36,8 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
     vid="TWSF3df6jUs&t=1s"
 %}
 
+{% include embed/map.html id="map1" center="Q187136" zoom="4" geojson="Song.json~The Song dynasty at its greatest extent in 1111 AD." %}
+
 {% include embed/map.html 
 	center="18.10596,-94.04924" 
 	zoom="4.5" 
