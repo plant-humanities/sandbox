@@ -47,5 +47,12 @@ categories: ["Boswellia", "Pharmacology", "Phytochemistry"]
 777
 {% include embed/map.html id="map1" center="Q187136" zoom="4" geojson="Song.json~The Song dynasty at its greatest extent in 1111 AD." %} 
 
+888
+{% include embed/map.html 
+	center="18.10596,-94.04924" 
+	zoom="4.5" 
+	basemap="Esri_WorldPhysical" 
+	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" 
+%}
 
 [^1]: "Frankincense". The Oxford English Dictionary. Vol. IV: F–G (reprint 1978 ed.). Oxford: Oxford University Press. 1933. p. 512. Retrieved 2021-07-04.
