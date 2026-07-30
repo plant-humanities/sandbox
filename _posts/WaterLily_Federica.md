@@ -43,3 +43,11 @@ Water lilies zoom. This is a [Lily](img5/zoomto/pct:29.36,19.96,11.76,12.17)
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRd5NJ0_0g8-UzdT473iXk4NF4BCG4Rxon6CJ4qgbakP8h7uUh-KjRmPAA9IeEUZDLKv9PtwoLIcVEb&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+# Maps
+
+{% include embed/map.html 
+	center="18.10596,-94.04924" 
+	zoom="4.5" 
+	basemap="Esri_WorldPhysical" 
+	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" 
+%}
