@@ -51,3 +51,8 @@ Water lilies zoom. This is a [Lily](img5/zoomto/pct:29.36,19.96,11.76,12.17)
 	basemap="Esri_WorldPhysical" 
 	caption="Water lilies in Europe" 
 %}
+
+{% include embed/map.html 
+	geojson="Waterliliescirculation.geojson"
+	caption="Water lilies in Europe" 
+%}
