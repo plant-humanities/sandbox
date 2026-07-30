@@ -35,11 +35,10 @@ Additionally, derivatives from the shell are used in products such as varnishes,
 
 {% include embed/map.html 
 	center="5.977222, -35.118333" 
-	zoom="1" 
+	zoom="4" 
 	basemap="Esri_WorldPhysical" 
 	caption="World's Largest Cashew Tree (Pirangi do Norte, Rio Grande do Norte)" 
   geojson="columbia.geojson" %}
-%}
 
 
 {% include embed/image.html id="img2" src="wc:Photo_View_of_cashew_trees_1961_-_Touring_Club_Italiano_BBE_58.jpg" caption="Photo View of cashew trees 1961 - Touring Club Italiano, Wikimedia Commons, public domain" aspect="4.68" %}
