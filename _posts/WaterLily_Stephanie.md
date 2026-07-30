@@ -39,4 +39,5 @@ Monet's paintings are among the most famous depictions of [water lilies](img3/zo
 	zoom="10" 
 	basemap="Esri_WorldPhysical" 
 	caption="Monet's Garden at Giverny"
+  geojson="untitled.geojson"
 %}
