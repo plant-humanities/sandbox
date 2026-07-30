@@ -37,9 +37,6 @@ categories: ["Boswellia", "Pharmacology", "Phytochemistry"]
     caption="The famous chorus"
 %}
 
-555
-{% include embed/iframe.html src="[https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kjtI9t7HgoZRiDeDyGjXXabVm2b3nZqTYFxnmxQUFFI&timenav-position=bottom&hash-bookmark=false&initial-zoom=1](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSkZpA8ikCQDcast9bSf-csZwbErWesGdqp57BPMougm3N2ovk4-YV71evr5mOZNJhgFT0AiF6Hj09Y&font=Default&lang=en&initial_zoom=2&width=100%25&height=650)" class="full" %}
-
 666
 
 {% include embed/iframe.html src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kjtI9t7HgoZRiDeDyGjXXabVm2b3nZqTYFxnmxQUFFI&timenav-position=bottom&hash-bookmark=false&initial-zoom=1" class="full" %}
