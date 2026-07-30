@@ -36,7 +36,7 @@ Monet's paintings are among the most famous depictions of [water lilies](img3/zo
 # Map 
 {% include embed/map.html 
 	center="49.075572472121046, 1.5336766779105755" 
-	zoom="4.5" 
+	zoom="10" 
 	basemap="Esri_WorldPhysical" 
 	caption="Monet's Garden at Giverny"
 %}
