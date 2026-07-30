@@ -50,7 +50,7 @@ categories: ["Boswellia", "Pharmacology", "Phytochemistry"]
 	zoom="4.5" 
 	basemap="Esri_WorldPhysical" 
 	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" 
-	geojson="Untitle.geojson" 
+	geojson="Untitled.geojson" 
 %}
 
 
