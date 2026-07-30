@@ -40,7 +40,7 @@ Timeline:
 Map:
 
 {% include embed/map.html
-    center="37.01056, -110.2425"
+    center="6.178593571442289, -67.48478387129992"
 %}
 
 
