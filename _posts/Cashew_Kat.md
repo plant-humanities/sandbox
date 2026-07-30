@@ -53,8 +53,10 @@ Across time and space, cashew has played an important role in many human culture
 
 The Cashew Tree of Pirangi (Cajueiro de Pirangi), also called the world's largest cashew tree. It is the size of about 70 normal cashew trees. 
 
-{% include embed/map.html
-    center="-5.978657, -35.123372"
-    caption="Cashew of Pirangi, Pirangi do Norte, Rio Grande do Norte, Brazil"
-    markers="-5.9765, -35.1222~Pirangi do Norte"
+
+{% include embed/map.html 
+	center="-5.978657, -35.123372"
+	zoom="4.5" 
+	basemap="Esri_WorldPhysical" 
+	caption="Cashew of Pirangi, Pirangi do Norte, Rio Grande do Norte, Brazil" 
 %}
