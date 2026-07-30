@@ -64,8 +64,8 @@ here's a map
 %}
 
 {% include embed/map.html 
-	center="18.10596,-94.04924" 
-	zoom="4.5" 
+	center="11.65354/51.24515" 
+	zoom="4.98" 
 	basemap="Esri_WorldPhysical" 
-	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" 
+	caption="location of Socotra" 
 	geojson="socotra.geojson" 
