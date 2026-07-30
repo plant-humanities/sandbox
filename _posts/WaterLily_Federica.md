@@ -46,7 +46,7 @@ Water lilies zoom. This is a [Lily](img5/zoomto/pct:29.36,19.96,11.76,12.17)
 # Maps
 
 {% include embed/map.html 
-	center="10.10596,-90.04924" 
+	center="40.105960,16.049240" 
 	zoom="4.5" 
 	basemap="Esri_WorldPhysical" 
 	caption="Water lilies in Europe" 
