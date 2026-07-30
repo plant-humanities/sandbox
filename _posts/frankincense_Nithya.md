@@ -73,5 +73,4 @@ id="vid1" %}
 	basemap="Land of Frankincense" 
 	caption="Land of Frankincense, Oman UNESCO World Heritage Site" 
   geojson="Land_of_Frankincese.geojson~Land of Frankincense, Oman UNESCO World Heritage Site" 
-" 
 %}
