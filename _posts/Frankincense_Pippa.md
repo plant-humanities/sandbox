@@ -62,4 +62,4 @@ here's a map
 	basemap="Esri_WorldPhysical" 
 	caption="location of Socotra" 
 	geojson="socotra.geojson" 
-  %}
+%}
