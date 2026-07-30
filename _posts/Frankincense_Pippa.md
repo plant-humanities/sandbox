@@ -61,6 +61,5 @@ here's a map
 	zoom="4.5" 
 	basemap="Esri_WorldPhysical" 
 	caption="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" 
-	geojson="Neotropics.geojson~Neotropics|Mexica.geojson~Mexica" 
 %}
 
