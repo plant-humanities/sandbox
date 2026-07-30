@@ -37,6 +37,8 @@ Timeline:
 
 {% include embed/iframe.html src=https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRhorp6HNIqU6S65l33XeuwNixAdKxG1pPd7f367AqZQcmjiwlZ3p8uBFqMiXon2wsDeLcyA1C5KW3W&font=Default&lang=en&initial_zoom=2&width=100%25&height=650%}
 
+Map:
+
 {% include embed/map.html
     center="37.01056, -110.2425"
 %}
