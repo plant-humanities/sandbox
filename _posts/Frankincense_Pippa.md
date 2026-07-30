@@ -64,8 +64,9 @@ here's a map
 %}
 
 {% include embed/map.html 
-	center="11.65354/51.24515" 
+	center="12.463420, 53.823738" 
 	zoom="4.98" 
 	basemap="Esri_WorldPhysical" 
 	caption="location of Socotra" 
 	geojson="socotra.geojson" 
+  %}
