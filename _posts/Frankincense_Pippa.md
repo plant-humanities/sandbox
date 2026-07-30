@@ -54,6 +54,8 @@ Here's a timeline
 src=https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRFRm58yVoc9OaruEmJijtFjEHUN0TDxSGWhHqbYSH2-dtuR047UBDe8S868pE8PrCn5glKyhg8aMEo&font=Default&lang=en&initial_zoom=2&width=100%25&height=650" 
 class="full" %}
 
+here's a map
+
 {% include embed/map.html
     center="37.01056, -110.2425"
 %}
