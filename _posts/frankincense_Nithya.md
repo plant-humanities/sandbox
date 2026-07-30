@@ -62,14 +62,14 @@ id="vid1" %}
 {% include embed/iframe.html src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kjtI9t7HgoZRiDeDyGjXXabVm2b3nZqTYFxnmxQUFFI&timenav-position=bottom&hash-bookmark=false&initial-zoom=1" class="full" %}
 
 {% include embed/map.html
-    center=" 54, 32"
+    center="18.253333, 53.647500"
     caption="Land of Frankincense"
     markers="18.253333, 53.647500~Land of Frankincense, Oman UNESCO World Heritage Site"
 %}
 
 {% include embed/map.html 
 	center="18.253333, 53.647500" 
-	zoom="4.5" 
+	zoom="1.5" 
 	basemap="Land of Frankincense" 
 	caption="Land of Frankincense, Oman UNESCO World Heritage Site" 
 " 
