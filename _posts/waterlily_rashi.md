@@ -6,7 +6,7 @@ date: 2026-07-21
 permalink: /waterlily 
 tags: flower ornamental temperate 
 published: false 
-media_subpath: /assets/posts/waterlily 
+media_subpath: /assets/posts/Waterlily_Rashi 
 image: 
   path: wc:A_single_blue_water_lily_in_bloom.jpg 
 storykit: true 
