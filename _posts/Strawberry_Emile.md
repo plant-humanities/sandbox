@@ -20,7 +20,7 @@ categories: ["Gardens & Aesthetics", "Ornamental Cultivation"]
 Look Mom, Emile had fun. He ran on an airstrip.
 
 
-{% include embed/map.html center="Q62598736" zoom="14" geojson="Emile-run.geojson" %}
+{% include embed/map.html center="38.965876, -77.856162" zoom="14" geojson="Emile-run.geojson" %}
 
 
 [1] Jepson Flora Project (ed.). "Nymphaea". Jepson eFlora. The Jepson Herbarium, University of California, Berkeley.
