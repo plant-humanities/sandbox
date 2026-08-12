@@ -62,9 +62,9 @@ The Cashew Tree of Pirangi (Cajueiro de Pirangi), also called the world's larges
 
 Testing visualization code below: 
 
-{% include embed/image.html id="img3" src="wc::Foto_1_Jambu_monyet_(Anacardium_occidentale).jpg" caption="*Anacardium occidentale*" aspect="4.68" %} 
+{% include embed/image.html id="img3" src="wc:Foto_1_Jambu_monyet_(Anacardium_occidentale).jpg" caption="*Anacardium occidentale*" aspect="4.68" %} 
 
-While most consumers are only familiar with the cashew nut, people in the tropics more commonly consume the “cashew apple,” a fleshy pseudo-fruit (technically termed [“hypocarp”](img3/zoomto/pct:) that is a stalk. The true fruit, in botanical terms, is the kidney-shaped “drupe” at the base of this fleshy hypocarp- the edible “nut” we commonly consume is a seed within the drupe. 
+While most consumers are only familiar with the cashew nut, people in the tropics more commonly consume the “cashew apple,” a fleshy pseudo-fruit (technically termed [“hypocarp”](img3/zoomto/pct:)) that is a stalk. The true fruit, in botanical terms, is the kidney-shaped “drupe” at the base of this fleshy hypocarp- the edible “nut” we commonly consume is a seed within the drupe. 
 
 The shell of the drupe contains a caustic resin which causes dermatitis on skin contact. 
 
