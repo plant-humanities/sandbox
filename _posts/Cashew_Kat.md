@@ -70,3 +70,7 @@ While most consumers are only familiar with the cashew nut, people in the tropic
 
 The shell of the drupe contains a caustic [resin](img5/zoomto/pct:) which causes dermatitis on skin contact. 
 
+{% include embed/iframe.html src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTrCN_f1Bso-6jYbHTnJNLYHuF8Sxs8o51e5w2JP9wx1gvt-r_2t8m0kXoeK96NjqkrPGh89USs8YJF&font=Default&lang=en&initial_zoom=2&width=100%25&height=650" class="full" %}
+
+
+
