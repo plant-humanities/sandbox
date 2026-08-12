@@ -66,7 +66,7 @@ Testing visualization code below:
 
 While most consumers are only familiar with the cashew nut, people in the tropics more commonly consume the “cashew apple,” a fleshy pseudo-fruit (technically termed [“hypocarp”](img3/zoomto/pct:)) that is a stalk. The true fruit, in botanical terms, is the kidney-shaped “drupe” at the base of this fleshy hypocarp- the edible “nut” we commonly consume is a seed within the drupe. 
 
-{% include embed/image.html id="img4" src="wc:Cashew_Brazil_nut_cut.jpg" caption="Cut of a cashew shell with the fresh nut inside. The liquid visible at the cut edges is the resin from the shell. Town of Prainha near Fortaleza, Ceará, Brazil." aspect="4.68" %} 
+{% include embed/image.html id="img4" src="wc:Owoce_Nanercz.jpg" aspect="4.68" %} 
 
 The shell of the drupe contains a caustic [resin](img4/zoomto/pct:) which causes dermatitis on skin contact. 
 
