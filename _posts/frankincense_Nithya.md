@@ -73,3 +73,10 @@ id="vid1" %}
 	caption="Land of Frankincense, Oman UNESCO World Heritage Site" 
   geojson="Land_of_Frankincense.geojson~Land of Frankincense, Oman UNESCO World Heritage Site" 
 %}
+Real Images for Frankincense Plant Narrative
+{% include embed/image-compare.html before="wc:Boswellia sacra kz03.jpg" after="wc:Corteccia-Boswellia.jpg" class="right" %}
+
+src="wc:Two_men_dissecting_a_body_with_plague._Wellcome_L0040881.jpg"
+src="wc:Virgin_and_Child,_from_an_Adoration_Group_MET_DP330356.jpg"
+src="wc:Gentile_da_Fabriano_Adoration.jpg"
+src="wc:Monnaie_-_1-10_stat%C3%A8re,_or,_Cyr%C3%A8ne_(%3F)_Cyr%C3%A9na%C3%AFque_-_btv1b8499705t_(1_of_2).jpg"
