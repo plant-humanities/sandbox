@@ -81,18 +81,21 @@ Image 1
     src="wc:Two_men_dissecting_a_body_with_plague._Wellcome_L0040881.jpg"
     aspect="4.68" %
     %}
+    
 Image 2
 {% include embed/image.html
     id="img2"
     src="wc:Virgin_and_Child,_from_an_Adoration_Group_MET_DP330356.jpg"
     aspect="4.68" %
     %}
+    
 Image 3
 {% include embed/image.html
     id="img2"
     src="wc:Gentile_da_Fabriano_Adoration.jpg"
     aspect="4.68" %
     %}
+    
 Image 4
 {% include embed/image.html
     id="img2"
