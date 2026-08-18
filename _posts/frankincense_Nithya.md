@@ -91,14 +91,14 @@ Image 2
     
 Image 3
 {% include embed/image.html
-    id="img2"
+    id="img3"
     src="wc:Gentile_da_Fabriano_Adoration.jpg"
     aspect="4.68" %
     %}
     
 Image 4
 {% include embed/image.html
-    id="img2"
+    id="img4"
     src="wc:Monnaie_-_1-10_stat%C3%A8re,_or,_Cyr%C3%A8ne_(%3F)_Cyr%C3%A9na%C3%AFque_-_btv1b8499705t_(1_of_2).jpg"
     aspect="4.68" %
     %}
